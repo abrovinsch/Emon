@@ -1,0 +1,28 @@
+
+starting to process 64014 lines...: 21:40:32.696976
+Cleaning...: 21:40:32.697768
+Removing duplicates...: 21:40:49.961571
+Removed 2953 items: 21:40:50.423874
+starting to process 86138 lines...: 13:42:14.011059
+Cleaning...: 13:42:14.011686
+starting to process 86138 lines...: 14:01:24.138452
+Cleaning...: 14:01:24.138801
+Removing duplicates...: 14:01:49.688678
+Removed 3761 items: 14:01:50.302647
+Finding tweets with 'condition': 14:13:57.611767
+Found 362, downloaded 13 tweets.: 14:14:02.074185
+Finding tweets with 'condominium': 14:14:02.074632
+Found 3289, downloaded 200 tweets.: 14:14:35.268525
+Finding tweets with 'condor': 14:14:35.268959
+Found 795, downloaded 24 tweets.: 14:14:42.948035
+Finding tweets with 'conductor': 14:14:42.948459
+Found 4497, downloaded 131 tweets.: 14:15:28.114631
+Finding tweets with 'cone': 14:15:28.115052
+Found 8494, downloaded 792 tweets.: 14:16:52.971615
+Finding tweets with 'confectionery': 14:16:52.972152
+Found 500, downloaded 30 tweets.: 14:16:58.138502
+Finding tweets with 'conference': 14:16:58.138892
+starting to process 86152 lines...: 19:27:59.843028
+Cleaning...: 19:27:59.843560
+Removing duplicates...: 19:28:23.617352
+Removed 3754 items: 19:28:24.418490

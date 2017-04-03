@@ -1,0 +1,6 @@
+ts = TwitterSearch(
+        consumer_key = 'pYtoes9l6uHd1Y7k4zjBFcuW9',
+        consumer_secret = 'j0WSbdLbUmGxHialNGfkdpTxsF8kUmfDRUZuMY002lyNtORgHW',
+        access_token = '223265942-Wc9qUlnqJ6RYGMCQdTHQu5FaNc54grfGIxJbOs0h',
+        access_token_secret = '089FVa0IC5dmJWyNGLfUM9oPM94ixm79IuJiSg8VoM8ZD'
+     )
