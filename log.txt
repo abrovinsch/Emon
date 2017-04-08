@@ -26,3 +26,2028 @@ starting to process 86152 lines...: 19:27:59.843028
 Cleaning...: 19:27:59.843560
 Removing duplicates...: 19:28:23.617352
 Removed 3754 items: 19:28:24.418490
+Finding tweets with 'conference': 19:42:25.224031
+Found 9999, downloaded 183 tweets.: 19:44:04.815493
+Finding tweets with 'confidence': 19:44:04.816305
+Found 3199, downloaded 102 tweets.: 19:44:35.699055
+Finding tweets with 'confirmation': 19:44:35.699573
+Found 4800, downloaded 42 tweets.: 19:45:22.680540
+Finding tweets with 'conflict': 19:45:22.681352
+Done!: 20:00:38.372027
+Finding tweets with 'conflict': 20:00:38.372516
+Found 6199, downloaded 75 tweets.: 20:01:37.548931
+Finding tweets with 'confusion': 20:01:37.549320
+Found 899, downloaded 21 tweets.: 20:01:46.240120
+Finding tweets with 'conga': 20:01:46.240518
+Found 3042, downloaded 181 tweets.: 20:02:15.363501
+Finding tweets with 'congo': 20:02:15.363875
+Found 2199, downloaded 120 tweets.: 20:02:36.170513
+Finding tweets with 'congress': 20:02:36.170925
+Found 5600, downloaded 39 tweets.: 20:03:31.444470
+Finding tweets with 'congressman': 20:03:31.444935
+Done!: 20:18:47.135019
+Finding tweets with 'congressman': 20:18:47.136185
+Found 699, downloaded 6 tweets.: 20:18:54.112866
+Finding tweets with 'congressperson': 20:18:54.113363
+Found 7000, downloaded 31 tweets.: 20:19:57.605034
+Finding tweets with 'conifer': 20:19:57.605485
+Found 1010, downloaded 12 tweets.: 20:20:07.677195
+Finding tweets with 'connection': 20:20:07.677732
+Found 5599, downloaded 168 tweets.: 20:21:03.512366
+Finding tweets with 'consent': 20:21:03.512962
+Found 3500, downloaded 44 tweets.: 20:21:37.380616
+Finding tweets with 'consequence': 20:21:37.380936
+Done!: 20:36:53.212010
+Finding tweets with 'consequence': 20:36:53.212269
+Found 5798, downloaded 144 tweets.: 20:37:47.381517
+Finding tweets with 'consideration': 20:37:47.381997
+Found 2499, downloaded 48 tweets.: 20:38:10.200753
+Finding tweets with 'consist': 20:38:10.201115
+Found 4187, downloaded 353 tweets.: 20:38:47.878432
+Finding tweets with 'console': 20:38:47.878862
+Found 81, downloaded 1 tweets.: 20:38:49.055610
+Finding tweets with 'consonant': 20:38:49.055924
+Found 299, downloaded 9 tweets.: 20:38:52.016573
+Finding tweets with 'conspirator': 20:38:52.016937
+Found 56, downloaded 1 tweets.: 20:38:53.388867
+Finding tweets with 'constant': 20:38:53.389281
+Found 2593, downloaded 100 tweets.: 20:39:17.879590
+Finding tweets with 'constellation': 20:39:17.879988
+Found 2052, downloaded 72 tweets.: 20:39:37.628635
+Finding tweets with 'construction': 20:39:37.629013
+Found 192, downloaded 1 tweets.: 20:39:39.754720
+Finding tweets with 'consul': 20:39:39.755132
+Found 100, downloaded 4 tweets.: 20:39:41.379128
+Finding tweets with 'consulate': 20:39:41.379619
+Done!: 20:54:57.097609
+Finding tweets with 'consulate': 20:54:57.098662
+Found 2588, downloaded 31 tweets.: 20:55:22.668923
+Finding tweets with 'contact': 20:55:22.669522
+Found 1197, downloaded 32 tweets.: 20:55:34.072660
+Finding tweets with 'contact lens': 20:55:34.073138
+Found 197, downloaded 13 tweets.: 20:55:36.073151
+Finding tweets with 'contagion': 20:55:36.073742
+Found 2441, downloaded 49 tweets.: 20:55:59.259450
+Finding tweets with 'content': 20:55:59.260131
+Found 9999, downloaded 152 tweets.: 20:57:33.532519
+Finding tweets with 'contest': 20:57:33.533106
+Found 1500, downloaded 23 tweets.: 20:57:47.963048
+Finding tweets with 'context': 20:57:47.964388
+Done!: 21:13:03.659122
+Finding tweets with 'context': 21:13:03.659525
+Found 9999, downloaded 224 tweets.: 21:14:42.682155
+Finding tweets with 'continent': 21:14:42.682613
+Found 8000, downloaded 177 tweets.: 21:15:59.273533
+Finding tweets with 'contract': 21:15:59.274115
+Done!: 21:31:14.990799
+Finding tweets with 'contract': 21:31:14.991175
+Found 3989, downloaded 85 tweets.: 21:31:52.212355
+Finding tweets with 'contrail': 21:31:52.212900
+Found 1267, downloaded 36 tweets.: 21:32:04.614084
+Finding tweets with 'contrary': 21:32:04.614598
+Found 4094, downloaded 65 tweets.: 21:32:41.339494
+Finding tweets with 'contribution': 21:32:41.340036
+Found 8600, downloaded 78 tweets.: 21:33:58.808690
+Finding tweets with 'control': 21:33:58.809169
+Done!: 21:49:14.511552
+Finding tweets with 'control': 21:49:14.511763
+Found 9297, downloaded 272 tweets.: 21:50:44.546510
+Finding tweets with 'convection': 21:50:44.547092
+Found 196, downloaded 1 tweets.: 21:50:46.453428
+Finding tweets with 'conversation': 21:50:46.454002
+Found 8500, downloaded 353 tweets.: 21:52:12.878983
+Finding tweets with 'convert': 21:52:12.879405
+Done!: 22:07:28.602363
+Finding tweets with 'convert': 22:07:28.603439
+Found 71, downloaded 1 tweets.: 22:07:29.745866
+Finding tweets with 'convertible': 22:07:29.746451
+Found 72, downloaded 3 tweets.: 22:07:30.974814
+Finding tweets with 'cook': 22:07:30.975309
+Found 194, downloaded 15 tweets.: 22:07:33.193382
+Finding tweets with 'cookie': 22:07:33.193915
+Found 7999, downloaded 568 tweets.: 22:08:52.462026
+Finding tweets with 'cooking': 22:08:52.462455
+Found 66, downloaded 2 tweets.: 22:08:53.625905
+Finding tweets with 'coonskin': 22:08:53.626402
+Found 152, downloaded 9 tweets.: 22:08:55.585813
+Finding tweets with 'cope': 22:08:55.586448
+Found 9300, downloaded 717 tweets.: 22:10:32.829931
+Finding tweets with 'cop-out': 22:10:32.830631
+Done!: 22:25:48.583063
+Finding tweets with 'cop-out': 22:25:48.583612
+Found 85, downloaded 1 tweets.: 22:25:49.731135
+Finding tweets with 'copper': 22:25:49.731793
+Found 90, downloaded 6 tweets.: 22:25:51.106488
+Finding tweets with 'co-producer': 22:25:51.107076
+Found 189, downloaded 4 tweets.: 22:25:53.225107
+Finding tweets with 'copy': 22:25:53.225586
+Found 3197, downloaded 131 tweets.: 22:26:25.290574
+Finding tweets with 'copyright': 22:26:25.291131
+Found 93, downloaded 4 tweets.: 22:26:26.447800
+Finding tweets with 'copywriter': 22:26:26.448271
+Found 1099, downloaded 18 tweets.: 22:26:36.935780
+Finding tweets with 'cord': 22:26:36.936268
+Found 89, downloaded 2 tweets.: 22:26:38.071964
+Finding tweets with 'corduroy': 22:26:38.072608
+Found 63, downloaded 2 tweets.: 22:26:39.299806
+Finding tweets with 'cork': 22:26:39.300500
+Found 555, downloaded 22 tweets.: 22:26:45.187792
+Finding tweets with 'cormorant': 22:26:45.188293
+Found 1717, downloaded 41 tweets.: 22:27:02.743876
+Finding tweets with 'corn': 22:27:02.744554
+Found 9999, downloaded 726 tweets.: 22:28:38.895912
+Finding tweets with 'corner': 22:28:38.896411
+Found 600, downloaded 48 tweets.: 22:28:45.125847
+Finding tweets with 'cornerstone': 22:28:45.126356
+Done!: 22:44:00.832410
+Finding tweets with 'cornerstone': 22:44:00.832766
+Found 1092, downloaded 18 tweets.: 22:44:11.544941
+Finding tweets with 'cornet': 22:44:11.545494
+Found 197, downloaded 8 tweets.: 22:44:13.635898
+Finding tweets with 'corral': 22:44:13.636437
+Found 1760, downloaded 91 tweets.: 22:44:30.740413
+Finding tweets with 'correspondent': 22:44:30.740896
+Found 9999, downloaded 84 tweets.: 22:46:03.114074
+Finding tweets with 'corridor': 22:46:03.115255
+Found 3396, downloaded 69 tweets.: 22:46:35.530707
+Finding tweets with 'corruption': 22:46:35.531442
+Found 1500, downloaded 19 tweets.: 22:46:50.152105
+Finding tweets with 'corsage': 22:46:50.152585
+Done!: 23:02:05.827101
+Finding tweets with 'corsage': 23:02:05.827398
+Found 679, downloaded 95 tweets.: 23:02:12.580280
+Finding tweets with 'cost': 23:02:12.581064
+Found 9999, downloaded 195 tweets.: 23:03:46.662565
+Finding tweets with 'costume': 23:03:46.662947
+Found 1099, downloaded 48 tweets.: 23:03:56.937405
+Finding tweets with 'cot': 23:03:56.937934
+Found 199, downloaded 11 tweets.: 23:03:58.982469
+Finding tweets with 'cottage': 23:03:58.982985
+Found 3199, downloaded 83 tweets.: 23:04:28.425725
+Finding tweets with 'cotton': 23:04:28.426244
+Found 67, downloaded 5 tweets.: 23:04:29.498841
+Finding tweets with 'couch': 23:04:29.499326
+Found 2700, downloaded 263 tweets.: 23:04:55.451390
+Finding tweets with 'cougar': 23:04:55.451871
+Done!: 23:20:11.187286
+Finding tweets with 'cougar': 23:20:11.188474
+Found 698, downloaded 34 tweets.: 23:20:17.010003
+Finding tweets with 'cough': 23:20:17.010404
+Found 1475, downloaded 143 tweets.: 23:20:32.010868
+Finding tweets with 'council': 23:20:32.011549
+Found 9999, downloaded 105 tweets.: 23:22:04.145872
+Finding tweets with 'councilman': 23:22:04.146757
+Found 3499, downloaded 29 tweets.: 23:22:36.617227
+Finding tweets with 'councilor': 23:22:36.617756
+Found 2300, downloaded 105 tweets.: 23:22:57.306064
+Finding tweets with 'councilperson': 23:22:57.306729
+Done!: 23:38:13.018235
+Finding tweets with 'councilperson': 23:38:13.019117
+Found 136, downloaded 4 tweets.: 23:38:14.836050
+Finding tweets with 'count': 23:38:14.837037
+Found 9999, downloaded 624 tweets.: 23:39:51.345852
+Finding tweets with 'counter': 23:39:51.346367
+Found 7800, downloaded 142 tweets.: 23:41:05.960722
+Finding tweets with 'counter-force': 23:41:05.961212
+Done!: 23:56:21.624849
+Finding tweets with 'counter-force': 23:56:21.625064
+Found 794, downloaded 4 tweets.: 23:56:29.146960
+Finding tweets with 'countess': 23:56:29.147422
+Found 1597, downloaded 65 tweets.: 23:56:44.119909
+Finding tweets with 'country': 23:56:44.120481
+Found 7299, downloaded 185 tweets.: 23:57:54.942509
+Finding tweets with 'county': 23:57:54.942971
+Found 5599, downloaded 112 tweets.: 23:58:48.501885
+Finding tweets with 'couple': 23:58:48.502358
+Found 2700, downloaded 205 tweets.: 23:59:16.056871
+Finding tweets with 'courage': 23:59:16.057320
+Done!: 00:14:31.741324
+Finding tweets with 'courage': 00:14:31.741570
+Found 2145, downloaded 74 tweets.: 00:14:52.814316
+Finding tweets with 'course': 00:14:52.814801
+Found 1295, downloaded 73 tweets.: 00:15:05.749936
+Finding tweets with 'court': 00:15:05.750433
+Found 274, downloaded 4 tweets.: 00:15:09.252261
+Finding tweets with 'cousin': 00:15:09.252786
+Found 7989, downloaded 1437 tweets.: 00:16:26.611915
+Finding tweets with 'covariate': 00:16:26.612477
+Found 24, downloaded 0 tweets.: 00:16:27.740642
+Finding tweets with 'cover': 00:16:27.741138
+Found 398, downloaded 14 tweets.: 00:16:31.889324
+Finding tweets with 'coverall': 00:16:31.889853
+Found 193, downloaded 8 tweets.: 00:16:34.039993
+Finding tweets with 'cow': 00:16:34.040443
+Found 3099, downloaded 162 tweets.: 00:17:04.374945
+Finding tweets with 'cowbell': 00:17:04.375467
+Found 2400, downloaded 55 tweets.: 00:17:25.446218
+Finding tweets with 'cowboy': 00:17:25.446602
+Done!: 00:32:41.140909
+Finding tweets with 'cowboy': 00:32:41.141267
+Found 237, downloaded 9 tweets.: 00:32:43.834171
+Finding tweets with 'crab': 00:32:43.834784
+Found 1878, downloaded 164 tweets.: 00:33:02.462678
+Finding tweets with 'crack': 00:33:02.463218
+Found 9999, downloaded 691 tweets.: 00:34:38.686187
+Finding tweets with 'cracker': 00:34:38.686680
+Found 4697, downloaded 387 tweets.: 00:35:25.275689
+Finding tweets with 'crackers': 00:35:25.276189
+Found 1100, downloaded 124 tweets.: 00:35:36.297512
+Finding tweets with 'cradle': 00:35:36.298011
+Done!: 00:50:51.976707
+Finding tweets with 'cradle': 00:50:51.976955
+Found 93, downloaded 3 tweets.: 00:50:53.236327
+Finding tweets with 'craft': 00:50:53.236842
+Found 286, downloaded 7 tweets.: 00:50:56.594024
+Finding tweets with 'craftsman': 00:50:56.594509
+Found 73, downloaded 1 tweets.: 00:50:57.743993
+Finding tweets with 'crash': 00:50:57.744402
+Found 399, downloaded 16 tweets.: 00:51:02.201095
+Finding tweets with 'crate': 00:51:02.201555
+Found 1698, downloaded 61 tweets.: 00:51:19.328431
+Finding tweets with 'cravat': 00:51:19.328915
+Found 498, downloaded 27 tweets.: 00:51:25.003729
+Finding tweets with 'craw': 00:51:25.004304
+Found 3800, downloaded 236 tweets.: 00:52:06.840861
+Finding tweets with 'crawdad': 00:52:06.841346
+Found 276, downloaded 15 tweets.: 00:52:10.269184
+Finding tweets with 'crayfish': 00:52:10.269690
+Found 1597, downloaded 98 tweets.: 00:52:25.154295
+Finding tweets with 'crayon': 00:52:25.154796
+Found 6896, downloaded 255 tweets.: 00:54:18.183237
+Finding tweets with 'crazy': 00:54:18.183790
+Found 2200, downloaded 171 tweets.: 00:54:40.195073
+Finding tweets with 'cream': 00:54:40.195633
+Done!: 01:09:55.864184
+Finding tweets with 'cream': 01:09:55.864426
+Found 2189, downloaded 254 tweets.: 01:10:17.460998
+Finding tweets with 'creative': 01:10:17.461511
+Found 2791, downloaded 74 tweets.: 01:10:43.327788
+Finding tweets with 'creator': 01:10:43.328341
+Found 1495, downloaded 30 tweets.: 01:10:57.608764
+Finding tweets with 'creature': 01:10:57.609239
+Found 3994, downloaded 163 tweets.: 01:11:35.590808
+Finding tweets with 'creche': 01:11:35.591294
+Found 1500, downloaded 123 tweets.: 01:11:50.699809
+Finding tweets with 'credenza': 01:11:50.700389
+Found 69, downloaded 0 tweets.: 01:11:51.499108
+Finding tweets with 'credit': 01:11:51.499613
+Found 5800, downloaded 191 tweets.: 01:12:45.900922
+Finding tweets with 'creditor': 01:12:45.901466
+Done!: 01:28:01.566246
+Finding tweets with 'creditor': 01:28:01.566672
+Found 1051, downloaded 13 tweets.: 01:28:12.410689
+Finding tweets with 'creek': 01:28:12.411362
+Found 4295, downloaded 140 tweets.: 01:28:52.069250
+Finding tweets with 'creme brulee': 01:28:52.069625
+Found 86, downloaded 4 tweets.: 01:28:53.188263
+Finding tweets with 'crest': 01:28:53.188712
+Found 9999, downloaded 28 tweets.: 01:30:12.856872
+Finding tweets with 'crew': 01:30:12.857350
+Found 494, downloaded 9 tweets.: 01:30:17.709413
+Finding tweets with 'crib': 01:30:17.709867
+Found 646, downloaded 59 tweets.: 01:30:24.602265
+Finding tweets with 'cribbage': 01:30:24.602815
+Found 398, downloaded 10 tweets.: 01:30:28.729292
+Finding tweets with 'cricket': 01:30:28.729762
+Found 900, downloaded 34 tweets.: 01:30:37.492333
+Finding tweets with 'cricketer': 01:30:37.492822
+Done!: 01:45:53.184888
+Finding tweets with 'cricketer': 01:45:53.185136
+Found 9573, downloaded 193 tweets.: 01:47:23.027436
+Finding tweets with 'crime': 01:47:23.028046
+Found 7099, downloaded 130 tweets.: 01:48:31.127452
+Finding tweets with 'criminal': 01:48:31.127951
+Found 1300, downloaded 20 tweets.: 01:48:43.996940
+Finding tweets with 'crinoline': 01:48:43.997436
+Done!: 02:03:59.675643
+Finding tweets with 'crinoline': 02:03:59.675933
+Found 49, downloaded 0 tweets.: 02:04:00.839616
+Finding tweets with 'criteria': 02:04:00.840126
+Found 775, downloaded 13 tweets.: 02:04:08.597699
+Finding tweets with 'criterion': 02:04:08.598285
+Found 568, downloaded 6 tweets.: 02:04:13.823542
+Finding tweets with 'criticism': 02:04:13.823985
+Found 2598, downloaded 32 tweets.: 02:04:39.184092
+Finding tweets with 'crocodile': 02:04:39.184674
+Found 1298, downloaded 55 tweets.: 02:04:51.519268
+Finding tweets with 'crocus': 02:04:51.519744
+Found 3396, downloaded 146 tweets.: 02:05:26.069497
+Finding tweets with 'croissant': 02:05:26.069969
+Found 8892, downloaded 956 tweets.: 02:06:50.987911
+Finding tweets with 'crook': 02:06:50.988472
+Found 300, downloaded 15 tweets.: 02:06:54.560749
+Finding tweets with 'crop': 02:06:54.561225
+Done!: 02:22:10.225849
+Finding tweets with 'crop': 02:22:10.226215
+Found 285, downloaded 20 tweets.: 02:22:13.073723
+Finding tweets with 'cross': 02:22:13.074387
+Found 496, downloaded 20 tweets.: 02:22:17.990935
+Finding tweets with 'cross-contamination': 02:22:17.991401
+Found 410, downloaded 29 tweets.: 02:22:22.391526
+Finding tweets with 'cross-stitch': 02:22:22.392102
+Found 72, downloaded 2 tweets.: 02:22:23.371481
+Finding tweets with 'crotch': 02:22:23.371995
+Found 998, downloaded 63 tweets.: 02:22:32.591124
+Finding tweets with 'croup': 02:22:32.591781
+Found 367, downloaded 30 tweets.: 02:22:36.154623
+Finding tweets with 'crow': 02:22:36.155145
+Found 4399, downloaded 139 tweets.: 02:23:17.017392
+Finding tweets with 'crowd': 02:23:17.017917
+Found 9999, downloaded 754 tweets.: 02:24:45.310353
+Finding tweets with 'crown': 02:24:45.310881
+Found 695, downloaded 46 tweets.: 02:24:52.626388
+Finding tweets with 'crude': 02:24:52.626924
+Found 100, downloaded 0 tweets.: 02:24:54.263192
+Finding tweets with 'crush': 02:24:54.263695
+Done!: 02:40:09.942100
+Finding tweets with 'crush': 02:40:09.942348
+Found 1694, downloaded 111 tweets.: 02:40:26.490557
+Finding tweets with 'cry': 02:40:26.491117
+Found 9999, downloaded 724 tweets.: 02:42:03.868014
+Finding tweets with 'crystallography': 02:42:03.868623
+Found 491, downloaded 3 tweets.: 02:42:08.320005
+Finding tweets with 'cub': 02:42:08.320520
+Found 4988, downloaded 173 tweets.: 02:42:53.424089
+Finding tweets with 'cuckoo': 02:42:53.424618
+Found 295, downloaded 22 tweets.: 02:42:56.615599
+Finding tweets with 'cucumber': 02:42:56.616087
+Found 500, downloaded 25 tweets.: 02:43:02.469763
+Finding tweets with 'cuff-links': 02:43:02.470317
+Done!: 02:58:18.177691
+Finding tweets with 'cuff-links': 02:58:18.177936
+Found 181, downloaded 2 tweets.: 02:58:20.222584
+Finding tweets with 'cultivar': 02:58:20.223112
+Found 284, downloaded 10 tweets.: 02:58:23.351032
+Finding tweets with 'cultivator': 02:58:23.351548
+Found 92, downloaded 3 tweets.: 02:58:24.531576
+Finding tweets with 'culture': 02:58:24.532106
+Found 9999, downloaded 197 tweets.: 03:00:01.638188
+Finding tweets with 'culvert': 03:00:01.638772
+Found 544, downloaded 15 tweets.: 03:00:07.826603
+Finding tweets with 'cummerbund': 03:00:07.827067
+Found 217, downloaded 4 tweets.: 03:00:11.398009
+Finding tweets with 'cup': 03:00:11.398592
+Found 1599, downloaded 115 tweets.: 03:00:27.430905
+Finding tweets with 'cupboard': 03:00:27.431399
+Found 1267, downloaded 92 tweets.: 03:00:40.172664
+Finding tweets with 'cupcake': 03:00:40.173122
+Found 1896, downloaded 169 tweets.: 03:00:59.034351
+Finding tweets with 'cupola': 03:00:59.034926
+Found 619, downloaded 18 tweets.: 03:01:05.437835
+Finding tweets with 'curio': 03:01:05.438404
+Found 1000, downloaded 43 tweets.: 03:01:16.218169
+Finding tweets with 'curl': 03:01:16.218612
+Done!: 03:16:31.880126
+Finding tweets with 'curl': 03:16:31.880421
+Found 391, downloaded 43 tweets.: 03:16:36.236164
+Finding tweets with 'curler': 03:16:36.236685
+Found 191, downloaded 14 tweets.: 03:16:38.530531
+Finding tweets with 'currency': 03:16:38.531166
+Found 88, downloaded 2 tweets.: 03:16:39.750647
+Finding tweets with 'current': 03:16:39.750997
+Found 9999, downloaded 304 tweets.: 03:18:19.628816
+Finding tweets with 'cursor': 03:18:19.629350
+Found 3719, downloaded 96 tweets.: 03:18:57.157954
+Finding tweets with 'curtain': 03:18:57.158372
+Found 28, downloaded 0 tweets.: 03:18:58.211336
+Finding tweets with 'curve': 03:18:58.211879
+Found 3400, downloaded 181 tweets.: 03:19:31.497854
+Finding tweets with 'cushion': 03:19:31.498298
+Done!: 03:34:47.180425
+Finding tweets with 'cushion': 03:34:47.180816
+Found 58, downloaded 4 tweets.: 03:34:48.416286
+Finding tweets with 'custard': 03:34:48.416887
+Found 9999, downloaded 865 tweets.: 03:36:29.168169
+Finding tweets with 'customer': 03:36:29.168836
+Found 4180, downloaded 182 tweets.: 03:37:10.034320
+Finding tweets with 'cut': 03:37:10.035072
+Found 899, downloaded 39 tweets.: 03:37:19.466309
+Finding tweets with 'cuticle': 03:37:19.466909
+Found 89, downloaded 2 tweets.: 03:37:20.785796
+Finding tweets with 'cutlet': 03:37:20.786292
+Found 2571, downloaded 107 tweets.: 03:37:46.317222
+Finding tweets with 'cutover': 03:37:46.317757
+Found 65, downloaded 0 tweets.: 03:37:47.811203
+Finding tweets with 'cutting': 03:37:47.811806
+Done!: 03:53:03.535591
+Finding tweets with 'cutting': 03:53:03.535841
+Found 9999, downloaded 462 tweets.: 03:54:40.688177
+Finding tweets with 'cyclamen': 03:54:40.688722
+Found 94, downloaded 3 tweets.: 03:54:41.891632
+Finding tweets with 'cycle': 03:54:41.892118
+Found 1891, downloaded 54 tweets.: 03:55:01.022419
+Finding tweets with 'cyclone': 03:55:01.022984
+Found 2496, downloaded 69 tweets.: 03:55:25.392960
+Finding tweets with 'cylinder': 03:55:25.393536
+Found 18, downloaded 0 tweets.: 03:55:26.356330
+Finding tweets with 'cymbal': 03:55:26.356827
+Found 2659, downloaded 55 tweets.: 03:55:52.409726
+Finding tweets with 'cymbals': 03:55:52.410283
+Found 700, downloaded 43 tweets.: 03:55:59.925452
+Finding tweets with 'cynic': 03:55:59.926028
+Done!: 04:11:15.590801
+Finding tweets with 'cynic': 04:11:15.591050
+Found 4799, downloaded 125 tweets.: 04:12:02.114206
+Finding tweets with 'cyst': 04:12:02.114696
+Found 62, downloaded 4 tweets.: 04:12:03.292039
+Finding tweets with 'cytoplasm': 04:12:03.292692
+Found 188, downloaded 7 tweets.: 04:12:05.466010
+Finding tweets with 'dad': 04:12:05.466510
+Found 1087, downloaded 88 tweets.: 04:12:16.725414
+Finding tweets with 'daffodil': 04:12:16.726024
+Found 798, downloaded 42 tweets.: 04:12:25.107373
+Finding tweets with 'dagger': 04:12:25.108016
+Found 1091, downloaded 27 tweets.: 04:12:35.279662
+Finding tweets with 'dahlia': 04:12:35.280135
+Found 598, downloaded 46 tweets.: 04:12:41.677638
+Finding tweets with 'daisy': 04:12:41.678159
+Found 473, downloaded 45 tweets.: 04:12:46.916692
+Finding tweets with 'damage': 04:12:46.917295
+Found 8800, downloaded 211 tweets.: 04:14:16.068842
+Finding tweets with 'dame': 04:14:16.069630
+Done!: 04:29:31.773525
+Finding tweets with 'dame': 04:29:31.773912
+Found 1190, downloaded 71 tweets.: 04:29:43.860378
+Finding tweets with 'dance': 04:29:43.860991
+Found 874, downloaded 44 tweets.: 04:29:52.588668
+Finding tweets with 'dancer': 04:29:52.589214
+Found 2598, downloaded 187 tweets.: 04:30:19.619349
+Finding tweets with 'dancing': 04:30:19.620025
+Found 9999, downloaded 689 tweets.: 04:31:59.837926
+Finding tweets with 'danger': 04:31:59.838472
+Found 3300, downloaded 79 tweets.: 04:32:34.845394
+Finding tweets with 'daniel': 04:32:34.845967
+Done!: 04:47:50.509685
+Finding tweets with 'daniel': 04:47:50.509919
+Found 1499, downloaded 82 tweets.: 04:48:05.300327
+Finding tweets with 'dare': 04:48:05.300929
+Found 9999, downloaded 491 tweets.: 04:49:47.287735
+Finding tweets with 'dark': 04:49:47.288184
+Found 1198, downloaded 52 tweets.: 04:49:59.771134
+Finding tweets with 'dart': 04:49:59.771681
+Found 196, downloaded 9 tweets.: 04:50:02.483489
+Finding tweets with 'dash': 04:50:02.484181
+Found 599, downloaded 33 tweets.: 04:50:08.417804
+Finding tweets with 'dashboard': 04:50:08.418318
+Found 1597, downloaded 36 tweets.: 04:50:23.609328
+Finding tweets with 'data': 04:50:23.609878
+Found 1899, downloaded 29 tweets.: 04:50:41.982465
+Finding tweets with 'database': 04:50:41.983088
+Found 1000, downloaded 10 tweets.: 04:50:51.703760
+Finding tweets with 'date': 04:50:51.704297
+Done!: 05:06:07.445651
+Finding tweets with 'date': 05:06:07.445903
+Found 3798, downloaded 222 tweets.: 05:06:45.881991
+Finding tweets with 'daughter': 05:06:45.882552
+Found 1498, downloaded 68 tweets.: 05:07:00.400521
+Finding tweets with 'david': 05:07:00.400995
+Found 1096, downloaded 38 tweets.: 05:07:11.853854
+Finding tweets with 'day': 05:07:11.854477
+Found 9999, downloaded 900 tweets.: 05:08:56.058848
+Finding tweets with 'daybed': 05:08:56.059366
+Found 923, downloaded 15 tweets.: 05:09:06.506073
+Finding tweets with 'dead': 05:09:06.506597
+Found 589, downloaded 64 tweets.: 05:09:13.010865
+Finding tweets with 'deadline': 05:09:13.011407
+Done!: 05:24:28.715321
+Finding tweets with 'deadline': 05:24:28.715686
+Found 9999, downloaded 244 tweets.: 05:26:04.223226
+Finding tweets with 'deal': 05:26:04.223857
+Found 1299, downloaded 58 tweets.: 05:26:17.576429
+Finding tweets with 'dealer': 05:26:17.577088
+Found 798, downloaded 56 tweets.: 05:26:25.541691
+Finding tweets with 'dear': 05:26:25.542214
+Found 1699, downloaded 87 tweets.: 05:26:42.659446
+Finding tweets with 'death': 05:26:42.659941
+Found 2798, downloaded 77 tweets.: 05:27:10.577213
+Finding tweets with 'deathwatch': 05:27:10.577749
+Found 76, downloaded 0 tweets.: 05:27:11.740332
+Finding tweets with 'debate': 05:27:11.740806
+Found 1300, downloaded 22 tweets.: 05:27:25.197791
+Finding tweets with 'debt': 05:27:25.198316
+Done!: 05:42:40.867466
+Finding tweets with 'debt': 05:42:40.867700
+Found 9999, downloaded 126 tweets.: 05:44:12.932307
+Finding tweets with 'debtor': 05:44:12.932825
+Found 197, downloaded 0 tweets.: 05:44:14.681794
+Finding tweets with 'decade': 05:44:14.682436
+Found 7800, downloaded 77 tweets.: 05:45:24.205750
+Finding tweets with 'decimal': 05:45:24.206278
+Done!: 06:00:39.874711
+Finding tweets with 'decimal': 06:00:39.875029
+Found 4589, downloaded 138 tweets.: 06:01:21.985911
+Finding tweets with 'decision': 06:01:21.986421
+Found 9999, downloaded 362 tweets.: 06:02:55.800806
+Finding tweets with 'deck': 06:02:55.801313
+Found 199, downloaded 8 tweets.: 06:02:57.955597
+Finding tweets with 'declination': 06:02:57.956107
+Found 159, downloaded 11 tweets.: 06:03:00.068642
+Finding tweets with 'decongestant': 06:03:00.069140
+Found 252, downloaded 19 tweets.: 06:03:02.901133
+Finding tweets with 'decrease': 06:03:02.901621
+Found 899, downloaded 16 tweets.: 06:03:11.252395
+Finding tweets with 'decryption': 06:03:11.252870
+Found 1800, downloaded 34 tweets.: 06:03:26.748980
+Finding tweets with 'dedication': 06:03:26.749599
+Done!: 06:18:42.406261
+Finding tweets with 'dedication': 06:18:42.406504
+Found 3096, downloaded 535 tweets.: 06:19:14.470182
+Finding tweets with 'deep': 06:19:14.470694
+Found 678, downloaded 25 tweets.: 06:19:21.413443
+Finding tweets with 'deer': 06:19:21.413883
+Found 93, downloaded 3 tweets.: 06:19:22.517250
+Finding tweets with 'defense': 06:19:22.517843
+Found 9999, downloaded 344 tweets.: 06:20:54.682276
+Finding tweets with 'deficit': 06:20:54.683011
+Found 3625, downloaded 18 tweets.: 06:21:24.505716
+Finding tweets with 'definition': 06:21:24.506186
+Found 400, downloaded 22 tweets.: 06:21:28.888690
+Finding tweets with 'deformation': 06:21:28.889208
+Done!: 06:36:44.557362
+Finding tweets with 'deformation': 06:36:44.557610
+Found 499, downloaded 7 tweets.: 06:36:49.458324
+Finding tweets with 'degree': 06:36:49.458776
+Found 9999, downloaded 601 tweets.: 06:38:26.144327
+Finding tweets with 'delay': 06:38:26.144908
+Found 4896, downloaded 115 tweets.: 06:39:09.977574
+Finding tweets with 'delete': 06:39:09.978097
+Found 2098, downloaded 170 tweets.: 06:39:31.217784
+Finding tweets with 'delight': 06:39:31.218382
+Found 500, downloaded 4 tweets.: 06:39:35.952529
+Finding tweets with 'delivery': 06:39:35.953026
+Done!: 06:54:51.663808
+Finding tweets with 'delivery': 06:54:51.664093
+Found 1398, downloaded 57 tweets.: 06:55:04.750219
+Finding tweets with 'demand': 06:55:04.750866
+Found 399, downloaded 9 tweets.: 06:55:08.931034
+Finding tweets with 'demur': 06:55:08.931592
+Found 254, downloaded 10 tweets.: 06:55:11.656472
+Finding tweets with 'den': 06:55:11.657057
+Found 1167, downloaded 159 tweets.: 06:55:23.749343
+Finding tweets with 'denim': 06:55:23.749908
+Found 61, downloaded 2 tweets.: 06:55:24.656416
+Finding tweets with 'dentist': 06:55:24.656999
+Found 9999, downloaded 1011 tweets.: 06:56:53.958653
+Finding tweets with 'deodorant': 06:56:53.959222
+Found 86, downloaded 5 tweets.: 06:56:55.144453
+Finding tweets with 'department': 06:56:55.144995
+Found 4500, downloaded 35 tweets.: 06:57:36.059375
+Finding tweets with 'departure': 06:57:36.059929
+Done!: 07:12:51.712769
+Finding tweets with 'departure': 07:12:51.713043
+Found 1895, downloaded 69 tweets.: 07:13:09.910184
+Finding tweets with 'dependent': 07:13:09.910763
+Found 9999, downloaded 206 tweets.: 07:14:43.730268
+Finding tweets with 'deployment': 07:14:43.730726
+Found 1999, downloaded 58 tweets.: 07:15:03.522875
+Finding tweets with 'deposit': 07:15:03.523256
+Found 195, downloaded 14 tweets.: 07:15:05.808643
+Finding tweets with 'depression': 07:15:05.809077
+Found 3900, downloaded 94 tweets.: 07:15:42.861831
+Finding tweets with 'depressive': 07:15:42.862359
+starting to process 85467 lines...: 07:24:23.267299
+Cleaning...: 07:24:23.267735
+Removing duplicates...: 07:24:45.652661
+Removed 3377 items: 07:24:46.175534
+starting to process 164490 lines...: 07:27:03.876490
+Cleaning...: 07:27:03.877062
+Removing duplicates...: 07:27:46.433027
+Removed 53892 items: 07:27:48.403633
+Finding tweets with 'depressive': 07:47:26.008721
+Finding tweets with 'depressive': 18:08:48.005605
+Finding tweets with 'depressive': 18:09:11.210627
+Found 1996, downloaded 57 tweets.: 18:09:30.776641
+Finding tweets with 'depth': 18:09:30.777403
+Found 1991, downloaded 41 tweets.: 18:09:50.162418
+Finding tweets with 'deputy': 18:09:50.163113
+Found 9598, downloaded 66 tweets.: 18:11:21.939475
+Finding tweets with 'derby': 18:11:21.940122
+Found 1977, downloaded 86 tweets.: 18:11:39.562909
+Finding tweets with 'derrick': 18:11:39.563528
+Found 1988, downloaded 78 tweets.: 18:11:58.152290
+Finding tweets with 'description': 18:11:58.152899
+Done!: 18:27:13.871402
+Finding tweets with 'description': 18:27:13.871950
+Found 4360, downloaded 98 tweets.: 18:27:58.693319
+Finding tweets with 'desert': 18:27:58.693838
+Found 9999, downloaded 281 tweets.: 18:29:40.171402
+Finding tweets with 'design': 18:29:40.171803
+Found 3600, downloaded 64 tweets.: 18:30:16.732923
+Finding tweets with 'designer': 18:30:16.733328
+Done!: 18:45:32.453865
+Finding tweets with 'designer': 18:45:32.454098
+Found 592, downloaded 16 tweets.: 18:45:38.653267
+Finding tweets with 'desire': 18:45:38.653898
+Found 1895, downloaded 53 tweets.: 18:45:57.153081
+Finding tweets with 'desk': 18:45:57.153425
+Found 386, downloaded 16 tweets.: 18:46:01.939997
+Finding tweets with 'dessert': 18:46:01.940442
+Found 897, downloaded 44 tweets.: 18:46:11.544050
+Finding tweets with 'destiny': 18:46:11.544449
+Found 9999, downloaded 410 tweets.: 18:47:49.983517
+Finding tweets with 'destroyer': 18:47:49.983973
+Found 299, downloaded 6 tweets.: 18:47:53.475417
+Finding tweets with 'destruction': 18:47:53.475865
+Found 294, downloaded 5 tweets.: 18:47:57.156369
+Finding tweets with 'detail': 18:47:57.156810
+Found 199, downloaded 2 tweets.: 18:47:59.574773
+Finding tweets with 'detainment': 18:47:59.575265
+Found 764, downloaded 10 tweets.: 18:48:07.894547
+Finding tweets with 'detective': 18:48:07.895253
+Found 2600, downloaded 94 tweets.: 18:48:35.114840
+Finding tweets with 'detention': 18:48:35.115229
+Done!: 19:03:50.831002
+Finding tweets with 'detention': 19:03:50.831630
+Found 197, downloaded 6 tweets.: 19:03:53.119890
+Finding tweets with 'determination': 19:03:53.120499
+Found 1499, downloaded 52 tweets.: 19:04:08.634697
+Finding tweets with 'development': 19:04:08.635123
+Found 1599, downloaded 19 tweets.: 19:04:25.196928
+Finding tweets with 'deviance': 19:04:25.197366
+Found 1769, downloaded 35 tweets.: 19:04:43.285432
+Finding tweets with 'device': 19:04:43.285818
+Found 8797, downloaded 133 tweets.: 19:06:12.578432
+Finding tweets with 'devil': 19:06:12.579368
+Found 4100, downloaded 199 tweets.: 19:06:55.440665
+Finding tweets with 'dew': 19:06:55.441166
+Done!: 19:22:11.116761
+Finding tweets with 'dew': 19:22:11.117969
+Found 9965, downloaded 383 tweets.: 19:23:47.068465
+Finding tweets with 'dhow': 19:23:47.069251
+Found 1014, downloaded 36 tweets.: 19:23:57.376985
+Finding tweets with 'diadem': 19:23:57.377398
+Found 1175, downloaded 26 tweets.: 19:24:10.327413
+Finding tweets with 'diamond': 19:24:10.327811
+Found 1399, downloaded 98 tweets.: 19:24:23.685414
+Finding tweets with 'diaphragm': 19:24:23.685758
+Found 382, downloaded 14 tweets.: 19:24:28.094427
+Finding tweets with 'diarist': 19:24:28.094986
+Found 588, downloaded 16 tweets.: 19:24:34.623691
+Finding tweets with 'dibble': 19:24:34.624117
+Found 1088, downloaded 94 tweets.: 19:24:45.429073
+Finding tweets with 'dickey': 19:24:45.429466
+Found 190, downloaded 7 tweets.: 19:24:47.730380
+Finding tweets with 'dictaphone': 19:24:47.730804
+Found 91, downloaded 3 tweets.: 19:24:48.942727
+Finding tweets with 'diction': 19:24:48.943103
+Found 1900, downloaded 143 tweets.: 19:25:10.826402
+Finding tweets with 'dictionary': 19:25:10.827195
+Done!: 19:40:26.588636
+Finding tweets with 'dictionary': 19:40:26.589797
+Found 9999, downloaded 265 tweets.: 19:42:03.811081
+Finding tweets with 'diet': 19:42:03.811741
+Found 1044, downloaded 58 tweets.: 19:42:14.773993
+Finding tweets with 'difference': 19:42:14.774370
+Found 6900, downloaded 183 tweets.: 19:43:25.212872
+Finding tweets with 'differential': 19:43:25.213327
+Done!: 19:58:40.888741
+Finding tweets with 'differential': 19:58:40.889881
+Found 873, downloaded 22 tweets.: 19:58:49.741334
+Finding tweets with 'difficulty': 19:58:49.742009
+Found 1198, downloaded 29 tweets.: 19:59:02.054581
+Finding tweets with 'dig': 19:59:02.054960
+Found 9999, downloaded 204 tweets.: 20:00:36.179601
+Finding tweets with 'digestion': 20:00:36.180368
+Found 983, downloaded 21 tweets.: 20:00:45.872698
+Finding tweets with 'digger': 20:00:45.873071
+Found 1499, downloaded 130 tweets.: 20:01:00.500403
+Finding tweets with 'digital': 20:01:00.501058
+Found 694, downloaded 13 tweets.: 20:01:09.231366
+Finding tweets with 'dignity': 20:01:09.231761
+Found 2078, downloaded 59 tweets.: 20:01:30.275280
+Finding tweets with 'dilapidation': 20:01:30.275718
+Found 40, downloaded 1 tweets.: 20:01:31.247674
+Finding tweets with 'dill': 20:01:31.248077
+Found 500, downloaded 34 tweets.: 20:01:36.581071
+Finding tweets with 'dime': 20:01:36.581507
+Done!: 20:16:52.260923
+Finding tweets with 'dime': 20:16:52.261628
+Found 1074, downloaded 92 tweets.: 20:17:03.202075
+Finding tweets with 'dimension': 20:17:03.202766
+Found 9999, downloaded 266 tweets.: 20:18:44.268270
+Finding tweets with 'dimple': 20:18:44.268955
+Found 998, downloaded 134 tweets.: 20:18:54.800138
+Finding tweets with 'diner': 20:18:54.800477
+Found 5900, downloaded 435 tweets.: 20:19:52.139169
+Finding tweets with 'dinghy': 20:19:52.139616
+Done!: 20:53:34.069483
+Finding tweets with 'dinghy': 20:53:34.070702
+Found 1800, downloaded 52 tweets.: 20:53:53.121421
+Finding tweets with 'dinner': 20:53:53.122041
+Found 395, downloaded 31 tweets.: 20:53:57.013213
+Finding tweets with 'dinosaur': 20:53:57.013676
+Found 6798, downloaded 386 tweets.: 20:55:01.314649
+Finding tweets with 'diploma': 20:55:01.315130
+Found 4099, downloaded 227 tweets.: 20:55:40.920094
+Finding tweets with 'dipstick': 20:55:40.920664
+Found 1422, downloaded 69 tweets.: 20:55:56.352830
+Finding tweets with 'direction': 20:55:56.353355
+Found 1290, downloaded 36 tweets.: 20:56:08.754149
+Finding tweets with 'director': 20:56:08.754629
+Found 2000, downloaded 30 tweets.: 20:56:28.532946
+Finding tweets with 'dirndl': 20:56:28.533467
+Done!: 21:11:44.272389
+Finding tweets with 'dirndl': 21:11:44.272861
+Found 70, downloaded 9 tweets.: 21:11:45.775081
+Finding tweets with 'dirt': 21:11:45.775533
+Found 6773, downloaded 333 tweets.: 21:12:59.814785
+Finding tweets with 'disadvantage': 21:12:59.815419
+Found 695, downloaded 15 tweets.: 21:13:08.223788
+Finding tweets with 'disarmament': 21:13:08.224312
+Found 3897, downloaded 18 tweets.: 21:13:51.637381
+Finding tweets with 'disaster': 21:13:51.637901
+Found 6499, downloaded 109 tweets.: 21:14:59.660858
+Finding tweets with 'discipline': 21:14:59.661626
+Done!: 21:30:15.430645
+Finding tweets with 'discipline': 21:30:15.430968
+Found 9999, downloaded 201 tweets.: 21:32:01.580642
+Finding tweets with 'disco': 21:32:01.581549
+Found 2178, downloaded 120 tweets.: 21:32:25.823903
+Finding tweets with 'disconnection': 21:32:25.824489
+Found 2427, downloaded 50 tweets.: 21:32:51.338564
+Finding tweets with 'discount': 21:32:51.339050
+Found 92, downloaded 3 tweets.: 21:32:53.033105
+Finding tweets with 'discovery': 21:32:53.033596
+Found 1499, downloaded 26 tweets.: 21:33:10.663593
+Finding tweets with 'discrepancy': 21:33:10.664091
+Found 1700, downloaded 45 tweets.: 21:33:27.916048
+Finding tweets with 'discussion': 21:33:27.916457
+Done!: 21:48:43.660539
+Finding tweets with 'discussion': 21:48:43.661437
+Found 9999, downloaded 194 tweets.: 21:50:30.095026
+Finding tweets with 'disease': 21:50:30.095819
+Found 4699, downloaded 76 tweets.: 21:51:19.983311
+Finding tweets with 'disembodiment': 21:51:19.983969
+Found 33, downloaded 1 tweets.: 21:51:20.932977
+Finding tweets with 'disengagement': 21:51:20.933506
+Found 1011, downloaded 11 tweets.: 21:51:31.704961
+Finding tweets with 'disguise': 21:51:31.705677
+Found 2100, downloaded 125 tweets.: 21:51:52.612772
+Finding tweets with 'disgust': 21:51:52.613461
+Done!: 22:07:08.326426
+Finding tweets with 'disgust': 22:07:08.329569
+Found 3378, downloaded 167 tweets.: 22:07:41.659204
+Finding tweets with 'dish': 22:07:41.660366
+Found 6995, downloaded 324 tweets.: 22:08:50.876328
+Finding tweets with 'dishes': 22:08:50.876988
+Found 399, downloaded 19 tweets.: 22:08:55.324555
+Finding tweets with 'dishwasher': 22:08:55.325064
+Found 795, downloaded 34 tweets.: 22:09:03.905291
+Finding tweets with 'disk': 22:09:03.906666
+Found 699, downloaded 31 tweets.: 22:09:10.299755
+Finding tweets with 'display': 22:09:10.300500
+Found 1289, downloaded 41 tweets.: 22:09:23.626410
+Finding tweets with 'disposer': 22:09:23.626981
+Found 1284, downloaded 6 tweets.: 22:09:35.264726
+Finding tweets with 'distance': 22:09:35.265425
+Found 3100, downloaded 110 tweets.: 22:10:09.866885
+Finding tweets with 'distribution': 22:10:09.867968
+Done!: 22:25:25.758097
+Finding tweets with 'distribution': 22:25:25.761028
+Found 3896, downloaded 48 tweets.: 22:26:10.090238
+Finding tweets with 'distributor': 22:26:10.091422
+Found 475, downloaded 8 tweets.: 22:26:17.178613
+Finding tweets with 'district': 22:26:17.179141
+Found 5298, downloaded 101 tweets.: 22:27:14.905909
+Finding tweets with 'divan': 22:27:14.906392
+Found 3997, downloaded 277 tweets.: 22:27:53.274352
+Finding tweets with 'diver': 22:27:53.274867
+Found 111, downloaded 6 tweets.: 22:27:55.402699
+Finding tweets with 'divide': 22:27:55.403324
+Found 3098, downloaded 99 tweets.: 22:28:29.181316
+Finding tweets with 'divider': 22:28:29.182088
+Found 167, downloaded 4 tweets.: 22:28:30.920185
+Finding tweets with 'diving': 22:28:30.920752
+Found 188, downloaded 7 tweets.: 22:28:33.187833
+Finding tweets with 'division': 22:28:33.188593
+Found 600, downloaded 21 tweets.: 22:28:39.547362
+Finding tweets with 'dock': 22:28:39.547856
+Done!: 22:43:55.300047
+Finding tweets with 'dock': 22:43:55.301317
+Found 92, downloaded 4 tweets.: 22:43:56.698599
+Finding tweets with 'doctor': 22:43:56.699192
+Found 792, downloaded 45 tweets.: 22:44:06.061670
+Finding tweets with 'document': 22:44:06.062182
+Found 2798, downloaded 39 tweets.: 22:44:35.972004
+Finding tweets with 'doe': 22:44:35.972659
+Found 9999, downloaded 1559 tweets.: 22:46:32.335379
+Finding tweets with 'dog': 22:46:32.336102
+Found 4300, downloaded 245 tweets.: 22:47:30.082676
+Finding tweets with 'dogsled': 22:47:30.083440
+Done!: 07:33:49.747367
+Finding tweets with 'dogsled': 07:33:49.748061
+Found 151, downloaded 8 tweets.: 07:33:52.435497
+Finding tweets with 'dogwood': 07:33:52.435995
+Found 982, downloaded 36 tweets.: 07:34:02.118347
+Finding tweets with 'doll': 07:34:02.118880
+Found 696, downloaded 60 tweets.: 07:34:09.446213
+Finding tweets with 'dollar': 07:34:09.446794
+Found 3598, downloaded 109 tweets.: 07:34:45.202962
+Finding tweets with 'dolman': 07:34:45.203515
+Found 370, downloaded 24 tweets.: 07:34:49.689256
+Finding tweets with 'dolphin': 07:34:49.689737
+Found 2499, downloaded 146 tweets.: 07:35:14.813144
+Finding tweets with 'domain': 07:35:14.813656
+Found 496, downloaded 13 tweets.: 07:35:19.767286
+Finding tweets with 'donkey': 07:35:19.767764
+Found 183, downloaded 4 tweets.: 07:35:22.120908
+Finding tweets with 'door': 07:35:22.121458
+Found 3496, downloaded 251 tweets.: 07:35:57.968026
+Finding tweets with 'doorknob': 07:35:57.968766
+Found 4495, downloaded 149 tweets.: 07:36:42.061369
+Finding tweets with 'doorpost': 07:36:42.061838
+Found 83, downloaded 1 tweets.: 07:36:43.532265
+Finding tweets with 'dory': 07:36:43.532739
+Found 9999, downloaded 174 tweets.: 07:38:18.593976
+Finding tweets with 'dot': 07:38:18.594702
+Found 1597, downloaded 72 tweets.: 07:38:33.940905
+Finding tweets with 'double': 07:38:33.941448
+Found 4695, downloaded 385 tweets.: 07:39:24.655377
+Finding tweets with 'doubling': 07:39:24.655849
+Found 68, downloaded 3 tweets.: 07:39:26.029490
+Finding tweets with 'doubt': 07:39:26.030019
+Found 100, downloaded 5 tweets.: 07:39:27.920579
+Finding tweets with 'doubter': 07:39:27.921054
+Done!: 07:54:43.672373
+Finding tweets with 'doubter': 07:54:43.673143
+Found 1065, downloaded 42 tweets.: 07:54:54.903484
+Finding tweets with 'downforce': 07:54:54.904429
+Found 1033, downloaded 28 tweets.: 07:55:07.132957
+Finding tweets with 'downgrade': 07:55:07.133410
+Found 7494, downloaded 174 tweets.: 07:56:21.977792
+Finding tweets with 'downtown': 07:56:21.978794
+Found 2380, downloaded 130 tweets.: 07:56:46.265031
+Finding tweets with 'draft': 07:56:46.265639
+Found 2199, downloaded 49 tweets.: 07:57:10.210491
+Finding tweets with 'drag': 07:57:10.211108
+Found 3700, downloaded 248 tweets.: 07:57:49.450252
+Finding tweets with 'dragon': 07:57:49.451629
+Done!: 08:13:05.169539
+Finding tweets with 'dragon': 08:13:05.170951
+Found 665, downloaded 6 tweets.: 08:13:11.773646
+Finding tweets with 'dragonfly': 08:13:11.774497
+Found 99, downloaded 2 tweets.: 08:13:12.910908
+Finding tweets with 'dragster': 08:13:12.911358
+Found 282, downloaded 9 tweets.: 08:13:16.193635
+Finding tweets with 'drain': 08:13:16.194261
+Found 9999, downloaded 332 tweets.: 08:14:58.917947
+Finding tweets with 'drake': 08:14:58.918602
+Found 1787, downloaded 129 tweets.: 08:15:16.597922
+Finding tweets with 'drama': 08:15:16.599007
+Found 5100, downloaded 195 tweets.: 08:16:07.888716
+Finding tweets with 'dramaturge': 08:16:07.889309
+Done!: 08:31:22.211140
+Finding tweets with 'dramaturge': 08:31:22.211403
+Found 39, downloaded 3 tweets.: 08:31:23.191693
+Finding tweets with 'draw': 08:31:23.192233
+Found 499, downloaded 12 tweets.: 08:31:29.245490
+Finding tweets with 'drawbridge': 08:31:29.246012
+Found 174, downloaded 0 tweets.: 08:31:31.604763
+Finding tweets with 'drawer': 08:31:31.605230
+Found 86, downloaded 5 tweets.: 08:31:32.909840
+Finding tweets with 'drawing': 08:31:32.910382
+Found 9999, downloaded 408 tweets.: 08:33:12.918776
+Finding tweets with 'dream': 08:33:12.919248
+Found 196, downloaded 10 tweets.: 08:33:15.212394
+Finding tweets with 'dredger': 08:33:15.212895
+Found 260, downloaded 0 tweets.: 08:33:18.192266
+Finding tweets with 'dress': 08:33:18.192817
+Found 194, downloaded 14 tweets.: 08:33:20.508114
+Finding tweets with 'dresser': 08:33:20.508672
+Found 392, downloaded 45 tweets.: 08:33:25.214922
+Finding tweets with 'dressing': 08:33:25.215487
+Found 6000, downloaded 130 tweets.: 08:34:25.205645
+Finding tweets with 'drill': 08:34:25.206136
+Done!: 08:49:40.918950
+Finding tweets with 'drill': 08:49:40.919239
+Found 9999, downloaded 445 tweets.: 08:51:29.878066
+Finding tweets with 'drink': 08:51:29.878636
+Found 300, downloaded 24 tweets.: 08:51:35.293259
+Finding tweets with 'drive': 08:51:35.293685
+Found 7600, downloaded 423 tweets.: 08:52:53.200732
+Finding tweets with 'driver': 08:52:53.201225
+Done!: 09:22:59.147386
+Finding tweets with 'driver': 09:22:59.147631
+Found 295, downloaded 11 tweets.: 09:23:02.799204
+Finding tweets with 'driveway': 09:23:02.799741
+Found 9699, downloaded 746 tweets.: 09:24:48.359392
+Finding tweets with 'driving': 09:24:48.359886
+Found 4294, downloaded 250 tweets.: 09:25:31.310494
+Finding tweets with 'drizzle': 09:25:31.311206
+Found 3700, downloaded 293 tweets.: 09:26:10.011370
+Finding tweets with 'dromedary': 09:26:10.011940
+Done!: 09:41:25.798559
+Finding tweets with 'dromedary': 09:41:25.799534
+Found 364, downloaded 19 tweets.: 09:41:30.319230
+Finding tweets with 'drop': 09:41:30.319729
+Found 969, downloaded 50 tweets.: 09:41:40.982474
+Finding tweets with 'drug': 09:41:40.983069
+Found 184, downloaded 4 tweets.: 09:41:43.170843
+Finding tweets with 'drum': 09:41:43.171397
+Found 5876, downloaded 196 tweets.: 09:42:44.499110
+Finding tweets with 'drummer': 09:42:44.500503
+Found 497, downloaded 52 tweets.: 09:42:49.797116
+Finding tweets with 'drunk': 09:42:49.797729
+Found 498, downloaded 34 tweets.: 09:42:54.305298
+Finding tweets with 'dry': 09:42:54.305808
+Found 9500, downloaded 822 tweets.: 09:44:31.935518
+Finding tweets with 'dryer': 09:44:31.936260
+Done!: 09:59:47.704628
+Finding tweets with 'dryer': 09:59:47.705163
+Found 90, downloaded 9 tweets.: 09:59:48.965738
+Finding tweets with 'duck': 09:59:48.966527
+Found 999, downloaded 55 tweets.: 09:59:58.496355
+Finding tweets with 'duckling': 09:59:58.497041
+Found 400, downloaded 41 tweets.: 10:00:04.114897
+Finding tweets with 'dud': 10:00:04.115607
+Done!: 10:15:20.220044
+Finding tweets with 'dud': 10:15:20.220981
+Found 895, downloaded 52 tweets.: 10:15:30.051590
+Finding tweets with 'due': 10:15:30.052092
+Found 2893, downloaded 108 tweets.: 10:16:01.634300
+Finding tweets with 'duffel': 10:16:01.634791
+Found 75, downloaded 1 tweets.: 10:16:02.927065
+Finding tweets with 'dugout': 10:16:02.927634
+Found 9999, downloaded 297 tweets.: 10:17:44.639160
+Finding tweets with 'dulcimer': 10:17:44.639649
+Found 439, downloaded 4 tweets.: 10:17:49.225518
+Finding tweets with 'dumbwaiter': 10:17:49.226070
+Found 83, downloaded 1 tweets.: 10:17:50.736593
+Finding tweets with 'dump': 10:17:50.737114
+Found 94, downloaded 4 tweets.: 10:17:51.799302
+Finding tweets with 'dump truck': 10:17:51.799802
+Found 292, downloaded 34 tweets.: 10:17:55.231614
+Finding tweets with 'dune buggy': 10:17:55.232073
+Found 33, downloaded 4 tweets.: 10:17:56.573787
+Finding tweets with 'dungarees': 10:17:56.574298
+Found 94, downloaded 4 tweets.: 10:17:57.813205
+Finding tweets with 'dungeon': 10:17:57.813829
+Found 1871, downloaded 48 tweets.: 10:18:16.910662
+Finding tweets with 'duplexer': 10:18:16.911199
+Found 28, downloaded 1 tweets.: 10:18:18.651543
+Finding tweets with 'dust': 10:18:18.652053
+Found 900, downloaded 43 tweets.: 10:18:28.537715
+Finding tweets with 'dust storm': 10:18:28.538264
+Done!: 10:33:44.709767
+Finding tweets with 'dust storm': 10:33:44.710125
+Found 4565, downloaded 295 tweets.: 10:34:32.374043
+Finding tweets with 'duster': 10:34:32.374590
+Found 64, downloaded 4 tweets.: 10:34:34.002443
+Finding tweets with 'duty': 10:34:34.002993
+Found 484, downloaded 18 tweets.: 10:34:39.065996
+Finding tweets with 'dwarf': 10:34:39.066502
+Found 1194, downloaded 23 tweets.: 10:34:50.109247
+Finding tweets with 'dwelling': 10:34:50.109653
+Found 697, downloaded 19 tweets.: 10:34:56.904890
+Finding tweets with 'dynamo': 10:34:56.905369
+Found 3393, downloaded 125 tweets.: 10:35:31.345611
+Finding tweets with 'eagle': 10:35:31.346124
+Found 686, downloaded 16 tweets.: 10:35:38.347579
+Finding tweets with 'ear': 10:35:38.348056
+Found 199, downloaded 13 tweets.: 10:35:40.783093
+Finding tweets with 'eardrum': 10:35:40.783571
+Found 854, downloaded 83 tweets.: 10:35:49.758966
+Finding tweets with 'earmuffs': 10:35:49.759463
+Found 1243, downloaded 73 tweets.: 10:36:04.460894
+Finding tweets with 'earplug': 10:36:04.461350
+Found 85, downloaded 3 tweets.: 10:36:05.854766
+Finding tweets with 'earrings': 10:36:05.855303
+Found 69, downloaded 2 tweets.: 10:36:07.384892
+Finding tweets with 'earth': 10:36:07.385343
+Found 795, downloaded 21 tweets.: 10:36:16.131115
+Finding tweets with 'earthquake': 10:36:16.131652
+Found 3400, downloaded 70 tweets.: 10:36:49.549557
+Finding tweets with 'earthworm': 10:36:49.550046
+Done!: 10:52:05.226086
+Finding tweets with 'earthworm': 10:52:05.226341
+Found 2893, downloaded 99 tweets.: 10:52:36.628951
+Finding tweets with 'ease': 10:52:36.629504
+Found 9999, downloaded 595 tweets.: 10:54:20.272097
+Finding tweets with 'easel': 10:54:20.272592
+Found 66, downloaded 3 tweets.: 10:54:21.341883
+Finding tweets with 'east': 10:54:21.342428
+Found 5000, downloaded 79 tweets.: 10:55:11.790952
+Finding tweets with 'eat': 10:55:11.791528
+Done!: 11:10:27.530207
+Finding tweets with 'eat': 11:10:27.530462
+Found 3799, downloaded 304 tweets.: 11:11:07.895948
+Finding tweets with 'eave': 11:11:07.896472
+Found 455, downloaded 16 tweets.: 11:11:13.373586
+Finding tweets with 'eavesdropper': 11:11:13.373978
+Found 135, downloaded 8 tweets.: 11:11:16.071914
+Finding tweets with 'e-book': 11:11:16.072433
+Found 1599, downloaded 26 tweets.: 11:11:31.671709
+Finding tweets with 'ecclesia': 11:11:31.672201
+Found 315, downloaded 5 tweets.: 11:11:35.675962
+Finding tweets with 'eclipse': 11:11:35.676510
+Found 4691, downloaded 98 tweets.: 11:12:24.341464
+Finding tweets with 'ecliptic': 11:12:24.341898
+Found 340, downloaded 7 tweets.: 11:12:28.579345
+Finding tweets with 'economics': 11:12:28.579846
+Found 6400, downloaded 107 tweets.: 11:13:33.091637
+Finding tweets with 'economy': 11:13:33.092141
+Done!: 11:28:48.856804
+Finding tweets with 'economy': 11:28:48.857201
+Found 8296, downloaded 89 tweets.: 11:30:13.864959
+Finding tweets with 'ecumenist': 11:30:13.865606
+Found 4, downloaded 0 tweets.: 11:30:14.591659
+Finding tweets with 'eddy': 11:30:14.592173
+Found 9600, downloaded 199 tweets.: 11:31:52.116591
+Finding tweets with 'edge': 11:31:52.117160
+Done!: 11:47:07.825993
+Finding tweets with 'edge': 11:47:07.826264
+Found 697, downloaded 35 tweets.: 11:47:15.957652
+Finding tweets with 'edger': 11:47:15.958163
+Found 99, downloaded 5 tweets.: 11:47:17.234020
+Finding tweets with 'editor': 11:47:17.234513
+Found 9999, downloaded 224 tweets.: 11:49:00.981714
+Finding tweets with 'editorial': 11:49:00.982196
+Found 7200, downloaded 73 tweets.: 11:50:14.849983
+Finding tweets with 'education': 11:50:14.850553
+Done!: 12:05:30.994774
+Finding tweets with 'education': 12:05:30.995016
+Found 2896, downloaded 28 tweets.: 12:05:59.414004
+Finding tweets with 'edward': 12:05:59.414540
+Found 2598, downloaded 56 tweets.: 12:06:27.225009
+Finding tweets with 'eel': 12:06:27.225604
+Found 2999, downloaded 190 tweets.: 12:06:54.998627
+Finding tweets with 'effacement': 12:06:54.999173
+Found 51, downloaded 2 tweets.: 12:06:56.155476
+Finding tweets with 'effect': 12:06:56.156005
+Found 477, downloaded 8 tweets.: 12:07:01.237924
+Finding tweets with 'effective': 12:07:01.238458
+Found 8900, downloaded 139 tweets.: 12:08:24.699827
+Finding tweets with 'efficacy': 12:08:24.700285
+Done!: 12:23:40.410095
+Finding tweets with 'efficacy': 12:23:40.410369
+Found 4294, downloaded 62 tweets.: 12:24:24.782312
+Finding tweets with 'efficiency': 12:24:24.782809
+Found 5192, downloaded 51 tweets.: 12:25:14.793809
+Finding tweets with 'effort': 12:25:14.794482
+Found 8500, downloaded 276 tweets.: 12:26:37.623118
+Finding tweets with 'egg': 12:26:37.623635
+Done!: 12:41:53.321589
+Finding tweets with 'egg': 12:41:53.321846
+Found 988, downloaded 36 tweets.: 12:42:04.006888
+Finding tweets with 'egghead': 12:42:04.007372
+Found 3472, downloaded 238 tweets.: 12:42:41.012878
+Finding tweets with 'eggnog': 12:42:41.013437
+Found 1300, downloaded 61 tweets.: 12:42:54.643418
+Finding tweets with 'eggplant': 12:42:54.643959
+Found 1376, downloaded 129 tweets.: 12:43:10.057457
+Finding tweets with 'eight': 12:43:10.057912
+Found 99, downloaded 1 tweets.: 12:43:11.325310
+Finding tweets with 'ejector': 12:43:11.325772
+Found 197, downloaded 6 tweets.: 12:43:13.761922
+Finding tweets with 'elbow': 12:43:13.762414
+Found 86, downloaded 3 tweets.: 12:43:14.984331
+Finding tweets with 'election': 12:43:14.984825
+Found 2199, downloaded 12 tweets.: 12:43:36.672177
+Finding tweets with 'electricity': 12:43:36.672694
+Found 589, downloaded 13 tweets.: 12:43:42.744091
+Finding tweets with 'electrocardiogram': 12:43:42.744596
+Found 145, downloaded 1 tweets.: 12:43:44.794829
+Finding tweets with 'element': 12:43:44.795341
+Found 1296, downloaded 29 tweets.: 12:43:57.630463
+Finding tweets with 'elephant': 12:43:57.630967
+Found 1897, downloaded 40 tweets.: 12:44:16.436001
+Finding tweets with 'elevator': 12:44:16.436487
+Found 4100, downloaded 301 tweets.: 12:44:57.765359
+Finding tweets with 'elixir': 12:44:57.765791
+Done!: 13:00:13.460028
+Finding tweets with 'elixir': 13:00:13.460257
+Found 986, downloaded 30 tweets.: 13:00:23.709830
+Finding tweets with 'elk': 13:00:23.710283
+Found 797, downloaded 13 tweets.: 13:00:32.199672
+Finding tweets with 'ellipse': 13:00:32.200164
+Found 299, downloaded 6 tweets.: 13:00:35.192746
+Finding tweets with 'elm': 13:00:35.193179
+Found 4299, downloaded 173 tweets.: 13:01:17.118458
+Finding tweets with 'elongation': 13:01:17.118985
+Found 418, downloaded 6 tweets.: 13:01:22.453540
+Finding tweets with 'embossing': 13:01:22.454058
+Found 33, downloaded 0 tweets.: 13:01:23.616800
+Finding tweets with 'emergence': 13:01:23.617229
+Found 4188, downloaded 36 tweets.: 13:02:03.692264
+Finding tweets with 'emergency': 13:02:03.692717
+Found 196, downloaded 4 tweets.: 13:02:05.842235
+Finding tweets with 'emergent': 13:02:05.842762
+Found 583, downloaded 5 tweets.: 13:02:11.653659
+Finding tweets with 'emery': 13:02:11.654132
+Found 3592, downloaded 311 tweets.: 13:02:48.972626
+Finding tweets with 'emotion': 13:02:48.973153
+Found 2400, downloaded 65 tweets.: 13:03:13.301297
+Finding tweets with 'emphasis': 13:03:13.301884
+Done!: 13:18:28.973518
+Finding tweets with 'emphasis': 13:18:28.973779
+Found 394, downloaded 7 tweets.: 13:18:33.242237
+Finding tweets with 'employ': 13:18:33.242724
+Found 9999, downloaded 162 tweets.: 13:20:10.169679
+Finding tweets with 'employee': 13:20:10.170171
+Found 399, downloaded 8 tweets.: 13:20:14.307516
+Finding tweets with 'employer': 13:20:14.308064
+Found 1996, downloaded 25 tweets.: 13:20:34.465028
+Finding tweets with 'employment': 13:20:34.465577
+Found 192, downloaded 1 tweets.: 13:20:36.623339
+Finding tweets with 'empowerment': 13:20:36.623840
+Found 5000, downloaded 102 tweets.: 13:21:25.494716
+Finding tweets with 'emu': 13:21:25.495214
+Done!: 13:36:41.236295
+Finding tweets with 'emu': 13:36:41.236657
+Found 1799, downloaded 79 tweets.: 13:36:59.157483
+Finding tweets with 'encirclement': 13:36:59.158166
+Found 144, downloaded 1 tweets.: 13:37:01.529211
+Finding tweets with 'encyclopedia': 13:37:01.529747
+Found 697, downloaded 11 tweets.: 13:37:09.031057
+Finding tweets with 'end': 13:37:09.031556
+Found 3698, downloaded 154 tweets.: 13:37:48.515387
+Finding tweets with 'endothelium': 13:37:48.515859
+Found 45, downloaded 0 tweets.: 13:37:49.723228
+Finding tweets with 'enemy': 13:37:49.723775
+Found 6083, downloaded 120 tweets.: 13:38:52.287348
+Finding tweets with 'energy': 13:38:52.287881
+Found 185, downloaded 3 tweets.: 13:38:54.636377
+Finding tweets with 'engine': 13:38:54.636849
+Found 3397, downloaded 77 tweets.: 13:39:28.534162
+Finding tweets with 'engineer': 13:39:28.534557
+Found 1800, downloaded 47 tweets.: 13:39:46.693762
+Finding tweets with 'engineering': 13:39:46.694184
+Done!: 13:55:02.368128
+Finding tweets with 'engineering': 13:55:02.368383
+Found 5066, downloaded 104 tweets.: 13:55:52.982170
+Finding tweets with 'enigma': 13:55:52.982628
+Found 3039, downloaded 116 tweets.: 13:56:24.294408
+Finding tweets with 'enjoyment': 13:56:24.294936
+starting to process 134170 lines...: 07:16:32.570623
+Cleaning...: 07:16:32.571581
+Removing duplicates...: 07:17:11.410941
+Removed 720 items: 07:17:12.047491
+Finding tweets with 'enjoyment': 07:19:30.756802
+Found 9097, downloaded 361 tweets.: 07:20:56.019312
+Finding tweets with 'enquiry': 07:20:56.019983
+Found 96, downloaded 1 tweets.: 07:20:57.080006
+Finding tweets with 'entertainment': 07:20:57.080427
+Found 1295, downloaded 15 tweets.: 07:21:09.325040
+Finding tweets with 'enthusiasm': 07:21:09.325528
+Found 6097, downloaded 135 tweets.: 07:22:05.939960
+Finding tweets with 'entrance': 07:22:05.940618
+Found 1400, downloaded 73 tweets.: 07:22:19.631163
+Finding tweets with 'entry': 07:22:19.631586
+Done!: 07:37:35.370629
+Finding tweets with 'entry': 07:37:35.371292
+Found 7094, downloaded 117 tweets.: 07:38:43.461710
+Finding tweets with 'environment': 07:38:43.462317
+Found 9999, downloaded 82 tweets.: 07:40:20.211064
+Finding tweets with 'envy': 07:40:20.211716
+Found 196, downloaded 4 tweets.: 07:40:22.300673
+Finding tweets with 'epauliere': 07:40:22.301096
+Found 1, downloaded 0 tweets.: 07:40:23.053024
+Finding tweets with 'epee': 07:40:23.053465
+Found 455, downloaded 16 tweets.: 07:40:27.870581
+Finding tweets with 'ephemera': 07:40:27.871029
+Found 100, downloaded 3 tweets.: 07:40:29.392069
+Finding tweets with 'ephemeris': 07:40:29.392469
+Done!: 07:55:45.174944
+Finding tweets with 'ephemeris': 07:55:45.177471
+Found 122, downloaded 0 tweets.: 07:55:46.825464
+Finding tweets with 'epoch': 07:55:46.826377
+Found 960, downloaded 37 tweets.: 07:55:56.595437
+Finding tweets with 'eponym': 07:55:56.596032
+Found 64, downloaded 1 tweets.: 07:55:57.731126
+Finding tweets with 'epoxy': 07:55:57.731449
+Found 395, downloaded 6 tweets.: 07:56:02.059716
+Finding tweets with 'equal': 07:56:02.060188
+Found 9999, downloaded 119 tweets.: 07:57:37.095552
+Finding tweets with 'equinox': 07:57:37.096584
+Found 1091, downloaded 70 tweets.: 07:57:47.311105
+Finding tweets with 'equipment': 07:57:47.311679
+Found 1997, downloaded 68 tweets.: 07:58:06.668398
+Finding tweets with 'equivalent': 07:58:06.669005
+Found 3200, downloaded 85 tweets.: 07:58:36.818243
+Finding tweets with 'era': 07:58:36.818685
+Done!: 08:13:52.502471
+Finding tweets with 'era': 08:13:52.503751
+Found 781, downloaded 20 tweets.: 08:14:00.662058
+Finding tweets with 'e-reader': 08:14:00.662810
+Found 86, downloaded 2 tweets.: 08:14:01.859255
+Finding tweets with 'error': 08:14:01.859642
+Found 395, downloaded 4 tweets.: 08:14:06.219839
+Finding tweets with 'escape': 08:14:06.220335
+Found 1092, downloaded 27 tweets.: 08:14:17.026230
+Finding tweets with 'ese': 08:14:17.026693
+Found 95, downloaded 9 tweets.: 08:14:18.294303
+Finding tweets with 'espadrille': 08:14:18.294815
+Found 185, downloaded 9 tweets.: 08:14:20.338490
+Finding tweets with 'espalier': 08:14:20.339093
+Found 131, downloaded 0 tweets.: 08:14:22.009739
+Finding tweets with 'essay': 08:14:22.010128
+Found 7283, downloaded 609 tweets.: 08:15:31.785432
+Finding tweets with 'establishment': 08:15:31.786457
+Found 7800, downloaded 65 tweets.: 08:16:47.535858
+Finding tweets with 'estate': 08:16:47.536490
+Done!: 08:32:03.285715
+Finding tweets with 'estate': 08:32:03.288663
+Found 599, downloaded 6 tweets.: 08:32:09.439061
+Finding tweets with 'estimate': 08:32:09.440503
+Found 999, downloaded 15 tweets.: 08:32:18.930142
+Finding tweets with 'estrogen': 08:32:18.930619
+Found 496, downloaded 17 tweets.: 08:32:23.530589
+Finding tweets with 'estuary': 08:32:23.531219
+Found 2431, downloaded 55 tweets.: 08:32:47.696275
+Finding tweets with 'ethernet': 08:32:47.696935
+Found 173, downloaded 7 tweets.: 08:32:49.655443
+Finding tweets with 'ethics': 08:32:49.655868
+Found 9999, downloaded 81 tweets.: 08:34:21.396808
+Finding tweets with 'euphonium': 08:34:21.397698
+Found 1146, downloaded 28 tweets.: 08:34:33.275350
+Finding tweets with 'eurocentrism': 08:34:33.275759
+Found 102, downloaded 2 tweets.: 08:34:35.015261
+Finding tweets with 'europe': 08:34:35.015670
+Found 1800, downloaded 29 tweets.: 08:34:53.252468
+Finding tweets with 'evaluator': 08:34:53.253281
+Done!: 08:50:08.959691
+Finding tweets with 'evaluator': 08:50:08.963086
+Found 1399, downloaded 26 tweets.: 08:50:21.876578
+Finding tweets with 'evening': 08:50:21.877502
+Found 5787, downloaded 222 tweets.: 08:51:14.877713
+Finding tweets with 'evening-wear': 08:51:14.878133
+Found 267, downloaded 6 tweets.: 08:51:17.995694
+Finding tweets with 'event': 08:51:17.996200
+Found 299, downloaded 7 tweets.: 08:51:20.813033
+Finding tweets with 'eviction': 08:51:20.813483
+Found 6099, downloaded 165 tweets.: 08:52:15.770754
+Finding tweets with 'evidence': 08:52:15.771224
+Found 4100, downloaded 26 tweets.: 08:52:52.506768
+Finding tweets with 'evocation': 08:52:52.507224
+Done!: 09:08:08.185374
+Finding tweets with 'evocation': 09:08:08.185816
+Found 446, downloaded 10 tweets.: 09:08:13.016405
+Finding tweets with 'evolution': 09:08:13.017066
+Found 699, downloaded 15 tweets.: 09:08:19.555338
+Finding tweets with 'exam': 09:08:19.556092
+Found 9999, downloaded 1452 tweets.: 09:09:46.972788
+Finding tweets with 'examination': 09:09:46.973299
+Found 6800, downloaded 185 tweets.: 09:10:50.885240
+Finding tweets with 'examiner': 09:10:50.885726
+Done!: 09:26:06.570234
+Finding tweets with 'examiner': 09:26:06.570506
+Found 796, downloaded 8 tweets.: 09:26:14.659186
+Finding tweets with 'example': 09:26:14.659615
+Found 1395, downloaded 31 tweets.: 09:26:27.706146
+Finding tweets with 'exchange': 09:26:27.706686
+Found 1794, downloaded 60 tweets.: 09:26:44.666710
+Finding tweets with 'excitement': 09:26:44.667194
+Found 74, downloaded 7 tweets.: 09:26:45.685399
+Finding tweets with 'exclamation': 09:26:45.685999
+Found 9999, downloaded 451 tweets.: 09:28:20.744445
+Finding tweets with 'excuse': 09:28:20.744905
+Found 185, downloaded 11 tweets.: 09:28:22.777906
+Finding tweets with 'executor': 09:28:22.778397
+Found 1073, downloaded 27 tweets.: 09:28:33.919897
+Finding tweets with 'exercise': 09:28:33.920329
+Found 899, downloaded 34 tweets.: 09:28:42.496280
+Finding tweets with 'exhaust': 09:28:42.496773
+Found 299, downloaded 22 tweets.: 09:28:45.581387
+Finding tweets with 'ex-husband': 09:28:45.582125
+Found 883, downloaded 30 tweets.: 09:28:53.870806
+Finding tweets with 'exile': 09:28:53.871311
+Found 500, downloaded 23 tweets.: 09:28:59.112125
+Finding tweets with 'existence': 09:28:59.112682
+Done!: 09:44:14.802584
+Finding tweets with 'existence': 09:44:14.802852
+Found 2092, downloaded 68 tweets.: 09:44:35.281215
+Finding tweets with 'exit': 09:44:35.281691
+Found 6296, downloaded 234 tweets.: 09:45:33.561324
+Finding tweets with 'expansion': 09:45:33.561843
+Found 8093, downloaded 71 tweets.: 09:46:51.276708
+Finding tweets with 'expansionism': 09:46:51.277174
+Found 662, downloaded 1 tweets.: 09:46:58.022367
+Finding tweets with 'experience': 09:46:58.022851
+Found 800, downloaded 23 tweets.: 09:47:06.623137
+Finding tweets with 'expert': 09:47:06.623594
+Done!: 10:02:22.302664
+Finding tweets with 'expert': 10:02:22.302943
+Found 772, downloaded 38 tweets.: 10:02:30.375366
+Finding tweets with 'explanation': 10:02:30.375715
+Found 3533, downloaded 59 tweets.: 10:03:04.815570
+Finding tweets with 'exposition': 10:03:04.816074
+Found 199, downloaded 10 tweets.: 10:03:06.887502
+Finding tweets with 'expression': 10:03:06.887970
+Found 9999, downloaded 471 tweets.: 10:04:42.943817
+Finding tweets with 'extension': 10:04:42.944285
+Found 194, downloaded 6 tweets.: 10:04:45.182577
+Finding tweets with 'extent': 10:04:45.183057
+Found 3200, downloaded 92 tweets.: 10:05:16.236096
+Finding tweets with 'external': 10:05:16.236738
+Done!: 10:20:31.921223
+Finding tweets with 'external': 10:20:31.921509
+Found 294, downloaded 1 tweets.: 10:20:34.698943
+Finding tweets with 'extreme': 10:20:34.699403
+Found 290, downloaded 9 tweets.: 10:20:37.789271
+Finding tweets with 'ex-wife': 10:20:37.789712
+Found 4294, downloaded 24 tweets.: 10:21:17.255431
+Finding tweets with 'eye': 10:21:17.255974
+Found 589, downloaded 25 tweets.: 10:21:22.735998
+Finding tweets with 'eyeball': 10:21:22.736525
+Found 1877, downloaded 111 tweets.: 10:21:40.147002
+Finding tweets with 'eyebrow': 10:21:40.147476
+Found 2398, downloaded 189 tweets.: 10:22:02.416383
+Finding tweets with 'eyebrows': 10:22:02.416914
+Found 8200, downloaded 1024 tweets.: 10:23:22.671034
+Finding tweets with 'eyeglasses': 10:23:22.671583
+Done!: 10:38:38.353834
+Finding tweets with 'eyeglasses': 10:38:38.354123
+Found 188, downloaded 8 tweets.: 10:38:40.671575
+Finding tweets with 'eyelash': 10:38:40.672145
+Found 57, downloaded 9 tweets.: 10:38:41.892580
+Finding tweets with 'eyelashes': 10:38:41.893106
+Found 95, downloaded 12 tweets.: 10:38:43.176124
+Finding tweets with 'eyelid': 10:38:43.176639
+Found 3095, downloaded 190 tweets.: 10:39:13.649988
+Finding tweets with 'eyelids': 10:39:13.650517
+Found 7763, downloaded 374 tweets.: 10:40:30.069768
+Finding tweets with 'eyeliner': 10:40:30.070245
+Found 3763, downloaded 417 tweets.: 10:41:05.798758
+Finding tweets with 'eyestrain': 10:41:05.799259
+Found 497, downloaded 7 tweets.: 10:41:10.599778
+Finding tweets with 'face': 10:41:10.600310
+Found 2400, downloaded 136 tweets.: 10:41:34.430360
+Finding tweets with 'facelift': 10:41:34.430849
+Done!: 10:56:50.113805
+Finding tweets with 'facelift': 10:56:50.114090
+Found 3399, downloaded 90 tweets.: 10:57:23.317787
+Finding tweets with 'facet': 10:57:23.318416
+Found 147, downloaded 1 tweets.: 10:57:25.011858
+Finding tweets with 'facilities': 10:57:25.012343
+Found 84, downloaded 0 tweets.: 10:57:26.239387
+Finding tweets with 'facsimile': 10:57:26.239908
+Found 196, downloaded 4 tweets.: 10:57:28.758049
+Finding tweets with 'fact': 10:57:28.758532
+Found 4499, downloaded 183 tweets.: 10:58:12.749160
+Finding tweets with 'factor': 10:58:12.749792
+Found 9600, downloaded 151 tweets.: 10:59:42.458600
+Finding tweets with 'factory': 10:59:42.459068
+Done!: 11:14:58.177020
+Finding tweets with 'factory': 11:14:58.177392
+Found 81, downloaded 2 tweets.: 11:14:59.334524
+Finding tweets with 'faculty': 11:14:59.335090
+Found 2398, downloaded 63 tweets.: 11:15:22.428210
+Finding tweets with 'fahrenheit': 11:15:22.428664
+Found 5862, downloaded 203 tweets.: 11:16:18.046777
+Finding tweets with 'fail': 11:16:18.047244
+Found 1485, downloaded 75 tweets.: 11:16:32.461695
+Finding tweets with 'failure': 11:16:32.462159
+Found 6295, downloaded 80 tweets.: 11:17:31.825384
+Finding tweets with 'fairies': 11:17:31.825871
+Found 1800, downloaded 71 tweets.: 11:17:48.912479
+Finding tweets with 'fairy': 11:17:48.912897
+Done!: 11:33:04.592243
+Finding tweets with 'fairy': 11:33:04.592488
+Found 278, downloaded 12 tweets.: 11:33:07.796913
+Finding tweets with 'faith': 11:33:07.797400
+Found 7191, downloaded 229 tweets.: 11:34:16.505458
+Finding tweets with 'fall': 11:34:16.506033
+Found 297, downloaded 17 tweets.: 11:34:19.740222
+Finding tweets with 'falling-out': 11:34:19.740782
+Found 36, downloaded 0 tweets.: 11:34:20.565193
+Finding tweets with 'fame': 11:34:20.565679
+Found 97, downloaded 2 tweets.: 11:34:21.837298
+Finding tweets with 'familiar': 11:34:21.837809
+Found 9199, downloaded 547 tweets.: 11:35:49.669632
+Finding tweets with 'family': 11:35:49.670141
+Found 800, downloaded 34 tweets.: 11:35:58.123809
+Finding tweets with 'fan': 11:35:58.124282
+Done!: 11:51:13.800766
+Finding tweets with 'fan': 11:51:13.800996
+Found 3993, downloaded 226 tweets.: 11:51:54.049946
+Finding tweets with 'fang': 11:51:54.050523
+Found 5395, downloaded 190 tweets.: 11:52:46.557009
+Finding tweets with 'fanlight': 11:52:46.557514
+Found 158, downloaded 9 tweets.: 11:52:48.668278
+Finding tweets with 'fanny': 11:52:48.668777
+Found 2999, downloaded 306 tweets.: 11:53:18.882496
+Finding tweets with 'fanny-pack': 11:53:18.883092
+Found 85, downloaded 9 tweets.: 11:53:20.008013
+Finding tweets with 'farm': 11:53:20.008639
+Found 2891, downloaded 111 tweets.: 11:53:47.924745
+Finding tweets with 'farmer': 11:53:47.925283
+Found 1697, downloaded 12 tweets.: 11:54:03.108908
+Finding tweets with 'fascia': 11:54:03.109385
+Found 700, downloaded 18 tweets.: 11:54:11.038262
+Finding tweets with 'fat': 11:54:11.038768
+Done!: 12:09:27.163066
+Finding tweets with 'fat': 12:09:27.164142
+Found 79, downloaded 2 tweets.: 12:09:28.276936
+Finding tweets with 'father': 12:09:28.277558
+Found 3155, downloaded 63 tweets.: 12:09:58.698620
+Finding tweets with 'father-in-law': 12:09:58.699118
+Found 9999, downloaded 273 tweets.: 12:11:35.598990
+Finding tweets with 'fatigues': 12:11:35.599477
+Found 698, downloaded 21 tweets.: 12:11:42.637820
+Finding tweets with 'faucet': 12:11:42.638320
+Found 498, downloaded 23 tweets.: 12:11:47.565217
+Finding tweets with 'fault': 12:11:47.565775
+Found 3500, downloaded 199 tweets.: 12:12:22.873297
+Finding tweets with 'fawn': 12:12:22.873881
+Done!: 12:27:38.562093
+Finding tweets with 'fawn': 12:27:38.562353
+Found 1094, downloaded 36 tweets.: 12:27:49.164966
+Finding tweets with 'fax': 12:27:49.165477
+Found 1699, downloaded 98 tweets.: 12:28:05.797170
+Finding tweets with 'fear': 12:28:05.797720
+Found 9999, downloaded 235 tweets.: 12:29:41.472374
+Finding tweets with 'feast': 12:29:41.473716
+Found 2198, downloaded 101 tweets.: 12:30:02.861985
+Finding tweets with 'feather': 12:30:02.862538
+Found 96, downloaded 0 tweets.: 12:30:04.813463
+Finding tweets with 'feature': 12:30:04.814008
+Found 2296, downloaded 109 tweets.: 12:30:27.802506
+Finding tweets with 'fedelini': 12:30:27.803111
+Found 5, downloaded 0 tweets.: 12:30:28.975069
+Finding tweets with 'fedora': 12:30:28.975552
+Found 500, downloaded 12 tweets.: 12:30:34.333736
+Finding tweets with 'fee': 12:30:34.334252
+Done!: 12:45:50.004136
+Finding tweets with 'fee': 12:45:50.004460
+Found 1074, downloaded 25 tweets.: 12:45:59.692179
+Finding tweets with 'feed': 12:45:59.692754
+Found 525, downloaded 14 tweets.: 12:46:05.772287
+Finding tweets with 'feedback': 12:46:05.772931
+Found 1371, downloaded 52 tweets.: 12:46:19.506358
+Finding tweets with 'feel': 12:46:19.506822
+Found 2499, downloaded 151 tweets.: 12:46:44.289108
+Finding tweets with 'feeling': 12:46:44.289603
+Found 9999, downloaded 568 tweets.: 12:48:18.541944
+Finding tweets with 'feet': 12:48:18.542648
+Found 1994, downloaded 102 tweets.: 12:48:36.597294
+Finding tweets with 'felony': 12:48:36.598014
+Found 400, downloaded 5 tweets.: 12:48:41.104185
+Finding tweets with 'female': 12:48:41.104774
+Done!: 13:03:56.784421
+Finding tweets with 'female': 13:03:56.785063
+Found 96, downloaded 2 tweets.: 13:03:58.213457
+Finding tweets with 'fen': 13:03:58.214161
+Found 3499, downloaded 302 tweets.: 13:04:34.370265
+Finding tweets with 'fence': 13:04:34.370686
+Found 194, downloaded 8 tweets.: 13:04:36.633741
+Finding tweets with 'fencing': 13:04:36.634254
+Found 7586, downloaded 245 tweets.: 13:05:49.355659
+Finding tweets with 'fender': 13:05:49.356407
+Found 265, downloaded 6 tweets.: 13:05:52.460431
+Finding tweets with 'ferry': 13:05:52.460932
+Found 382, downloaded 15 tweets.: 13:05:56.504292
+Finding tweets with 'ferryboat': 13:05:56.504801
+Found 272, downloaded 8 tweets.: 13:05:59.414997
+Finding tweets with 'fertilizer': 13:05:59.415521
+Found 5600, downloaded 124 tweets.: 13:06:53.800585
+Finding tweets with 'few': 13:06:53.801059
+Done!: 13:22:09.522735
+Finding tweets with 'few': 13:22:09.523021
+Found 878, downloaded 53 tweets.: 13:22:20.403843
+Finding tweets with 'fiber': 13:22:20.404334
+Found 93, downloaded 1 tweets.: 13:22:21.643957
+Finding tweets with 'fiberglass': 13:22:21.644476
+Found 85, downloaded 1 tweets.: 13:22:22.852870
+Finding tweets with 'fibre': 13:22:22.853409
+Found 199, downloaded 5 tweets.: 13:22:24.920103
+Finding tweets with 'fiction': 13:22:24.920585
+Found 593, downloaded 14 tweets.: 13:22:30.965789
+Finding tweets with 'fiddle': 13:22:30.966270
+Found 8799, downloaded 499 tweets.: 13:24:00.295028
+Finding tweets with 'field': 13:24:00.295573
+Found 7300, downloaded 218 tweets.: 13:25:11.977486
+Finding tweets with 'fifth': 13:25:11.977966
+Done!: 13:40:27.723799
+Finding tweets with 'fifth': 13:40:27.724118
+Found 289, downloaded 13 tweets.: 13:40:31.390374
+Finding tweets with 'fight': 13:40:31.390939
+Found 6298, downloaded 200 tweets.: 13:41:33.616033
+Finding tweets with 'fighter': 13:41:33.616573
+Found 1696, downloaded 33 tweets.: 13:41:49.857471
+Finding tweets with 'figure': 13:41:49.857918
+Found 199, downloaded 11 tweets.: 13:41:52.169891
+Finding tweets with 'figurine': 13:41:52.170417
+Found 78, downloaded 1 tweets.: 13:41:53.106049
+Finding tweets with 'file': 13:41:53.106533
+Found 386, downloaded 9 tweets.: 13:41:57.077570
+Finding tweets with 'fill': 13:41:57.078129
+Found 967, downloaded 30 tweets.: 13:42:07.949664
+Finding tweets with 'filly': 13:42:07.950199
+Found 7806, downloaded 335 tweets.: 13:43:29.354825
+Finding tweets with 'film': 13:43:29.355235
+Found 100, downloaded 4 tweets.: 13:43:31.063533
+Finding tweets with 'filth': 13:43:31.064105
+Done!: 13:58:46.809058
+Finding tweets with 'filth': 13:58:46.809349
+Found 9999, downloaded 508 tweets.: 14:00:27.801357
+Finding tweets with 'final': 14:00:27.801825
+Found 1666, downloaded 56 tweets.: 14:00:45.378402
+Finding tweets with 'finance': 14:00:45.378936
+Found 199, downloaded 5 tweets.: 14:00:47.559860
+Finding tweets with 'find': 14:00:47.560374
+Found 6100, downloaded 279 tweets.: 14:01:51.543924
+Finding tweets with 'finding': 14:01:51.544423
+Done!: 14:17:07.278809
+Finding tweets with 'finding': 14:17:07.279181
+Found 5692, downloaded 255 tweets.: 14:18:03.761616
+Finding tweets with 'fine': 14:18:03.762191
+Found 1398, downloaded 95 tweets.: 14:18:17.475163
+Finding tweets with 'finger': 14:18:17.475660
+Found 399, downloaded 23 tweets.: 14:18:21.985941
+Finding tweets with 'fingernail': 14:18:21.986410
+Found 1924, downloaded 189 tweets.: 14:18:43.491329
+Finding tweets with 'finish': 14:18:43.491842
+Found 783, downloaded 69 tweets.: 14:18:51.709984
+Finding tweets with 'finisher': 14:18:51.710478
+Found 7700, downloaded 300 tweets.: 14:20:08.828467
+Finding tweets with 'fir': 14:20:08.828997
+Done!: 14:35:24.581721
+Finding tweets with 'fir': 14:35:24.581968
+Found 9999, downloaded 564 tweets.: 14:37:06.039728
+Finding tweets with 'fire': 14:37:06.040221
+Found 8000, downloaded 354 tweets.: 14:38:28.712810
+Finding tweets with 'fireman': 14:38:28.713351
+Done!: 14:53:44.427958
+Finding tweets with 'fireman': 14:53:44.428205
+Found 988, downloaded 74 tweets.: 14:53:54.607408
+Finding tweets with 'fireplace': 14:53:54.607881
+Found 2999, downloaded 97 tweets.: 14:54:24.919903
+Finding tweets with 'firewall': 14:54:24.920589
+Found 9895, downloaded 176 tweets.: 14:56:07.381888
+Finding tweets with 'fish': 14:56:07.382405
+Found 993, downloaded 61 tweets.: 14:56:17.531886
+Finding tweets with 'fishbone': 14:56:17.532377
+Found 91, downloaded 2 tweets.: 14:56:19.157049
+Finding tweets with 'fisherman': 14:56:19.157535
+Found 97, downloaded 3 tweets.: 14:56:20.418972
+Finding tweets with 'fishery': 14:56:20.419464
+Found 1899, downloaded 20 tweets.: 14:56:39.323223
+Finding tweets with 'fishing': 14:56:39.323682
+Found 399, downloaded 15 tweets.: 14:56:43.786158
+Finding tweets with 'fishmonger': 14:56:43.786598
+Found 368, downloaded 21 tweets.: 14:56:48.432662
+Finding tweets with 'fishnet': 14:56:48.433139
+Found 200, downloaded 9 tweets.: 14:56:51.153520
+Finding tweets with 'fisting': 14:56:51.153996
+Done!: 15:12:06.871201
+Finding tweets with 'fisting': 15:12:06.871550
+Found 9999, downloaded 160 tweets.: 15:13:45.141378
+Finding tweets with 'fix': 15:13:45.142105
+Found 471, downloaded 15 tweets.: 15:13:51.380446
+Finding tweets with 'fixture': 15:13:51.380997
+Found 692, downloaded 22 tweets.: 15:13:58.845484
+Finding tweets with 'flag': 15:13:58.845969
+Found 5999, downloaded 95 tweets.: 15:15:00.535897
+Finding tweets with 'flame': 15:15:00.536395
+Found 99, downloaded 6 tweets.: 15:15:02.331462
+Finding tweets with 'flanker': 15:15:02.331961
+Found 700, downloaded 15 tweets.: 15:15:10.346429
+Finding tweets with 'flare': 15:15:10.346982
+Done!: 15:30:26.054303
+Finding tweets with 'flare': 15:30:26.054545
+Found 181, downloaded 5 tweets.: 15:30:28.191221
+Finding tweets with 'flash': 15:30:28.191699
+Found 898, downloaded 20 tweets.: 15:30:36.941585
+Finding tweets with 'flat': 15:30:36.942176
+Found 1290, downloaded 60 tweets.: 15:30:50.131833
+Finding tweets with 'flatboat': 15:30:50.132351
+Found 10, downloaded 0 tweets.: 15:30:50.938565
+Finding tweets with 'flavor': 15:30:50.939025
+Found 798, downloaded 35 tweets.: 15:30:59.166611
+Finding tweets with 'flax': 15:30:59.167230
+Found 77, downloaded 4 tweets.: 15:31:00.452909
+Finding tweets with 'fleck': 15:31:00.453441
+Found 8754, downloaded 604 tweets.: 15:32:32.523969
+Finding tweets with 'fleece': 15:32:32.524481
+Found 93, downloaded 1 tweets.: 15:32:33.809966
+Finding tweets with 'flesh': 15:32:33.810475
+Found 5700, downloaded 101 tweets.: 15:33:29.047962
+Finding tweets with 'flight': 15:33:29.048481
+Done!: 15:48:44.812424
+Finding tweets with 'flight': 15:48:44.812741
+Found 589, downloaded 48 tweets.: 15:48:51.695391
+Finding tweets with 'flintlock': 15:48:51.695885
+Found 91, downloaded 2 tweets.: 15:48:53.185484
+Finding tweets with 'flip-flops': 15:48:53.185962
+Found 1294, downloaded 147 tweets.: 15:49:06.396434
+Finding tweets with 'flock': 15:49:06.396925
+Found 699, downloaded 24 tweets.: 15:49:14.266642
+Finding tweets with 'flood': 15:49:14.267163
+Found 3696, downloaded 69 tweets.: 15:49:50.596150
+Finding tweets with 'floor': 15:49:50.596737
+Found 4766, downloaded 195 tweets.: 15:50:38.993394
+Finding tweets with 'floozie': 15:50:38.993968
+Found 129, downloaded 5 tweets.: 15:50:41.247947
+Finding tweets with 'flour': 15:50:41.248438
+Found 399, downloaded 13 tweets.: 15:50:45.425043
+Finding tweets with 'flow': 15:50:45.425545
+Found 3699, downloaded 221 tweets.: 15:51:29.623104
+Finding tweets with 'flower': 15:51:29.623631
+Found 799, downloaded 36 tweets.: 15:51:42.190977
+Finding tweets with 'flu': 15:51:42.191446
+Found 93, downloaded 8 tweets.: 15:51:43.759586
+Finding tweets with 'flugelhorn': 15:51:43.760036
+Found 176, downloaded 2 tweets.: 15:51:46.130607
+Finding tweets with 'fluke': 15:51:46.131058
+Found 273, downloaded 14 tweets.: 15:51:51.543213
+Finding tweets with 'flute': 15:51:51.543672
+Found 1100, downloaded 46 tweets.: 15:52:05.250725
+Finding tweets with 'fly': 15:52:05.251310
+Done!: 16:07:20.985873
+Finding tweets with 'fly': 16:07:20.986275
+Found 4191, downloaded 206 tweets.: 16:08:04.250618
+Finding tweets with 'flytrap': 16:08:04.251282
+Found 245, downloaded 15 tweets.: 16:08:08.043120
+Finding tweets with 'foam': 16:08:08.043640
+Found 277, downloaded 25 tweets.: 16:08:11.546870
+Finding tweets with 'fob': 16:08:11.547343
+Found 184, downloaded 8 tweets.: 16:08:13.838110
+Finding tweets with 'focus': 16:08:13.838589
+Found 698, downloaded 19 tweets.: 16:08:21.957386
+Finding tweets with 'fog': 16:08:21.957839
+Found 597, downloaded 23 tweets.: 16:08:28.289050
+Finding tweets with 'fold': 16:08:28.289579
+Found 997, downloaded 70 tweets.: 16:08:38.276427
+Finding tweets with 'folder': 16:08:38.276897
+Found 9999, downloaded 559 tweets.: 16:10:23.381780
+Finding tweets with 'following': 16:10:23.382279
+Found 87, downloaded 5 tweets.: 16:10:24.728020
+Finding tweets with 'fondue': 16:10:24.728536
+Found 600, downloaded 35 tweets.: 16:10:31.376929
+Finding tweets with 'font': 16:10:31.377311
+Done!: 16:25:47.104795
+Finding tweets with 'font': 16:25:47.105034
+Found 7586, downloaded 297 tweets.: 16:27:06.455453
+Finding tweets with 'food': 16:27:06.455947
+Found 7597, downloaded 526 tweets.: 16:28:29.900011
+Finding tweets with 'foot': 16:28:29.900551
+Found 2581, downloaded 147 tweets.: 16:28:56.026948
+Finding tweets with 'football': 16:28:56.027502
+Found 200, downloaded 5 tweets.: 16:28:58.969030
+Finding tweets with 'footnote': 16:28:58.969585
+Finding tweets with 'footnote': 16:31:26.523590
+Done!: 16:46:42.318074
+Finding tweets with 'footnote': 16:46:42.318345
+Found 9999, downloaded 63 tweets.: 16:48:16.652599
+Finding tweets with 'footrest': 16:48:16.653010
+Found 88, downloaded 5 tweets.: 16:48:18.259179
+Finding tweets with 'foot-rest': 16:48:18.259559
+Found 93, downloaded 4 tweets.: 16:48:19.488218
+Finding tweets with 'footstool': 16:48:19.488655
+Found 91, downloaded 2 tweets.: 16:48:21.328203
+Finding tweets with 'foray': 16:48:21.328555
+Found 1896, downloaded 22 tweets.: 16:48:40.484313
+Finding tweets with 'force': 16:48:40.484886
+Found 497, downloaded 12 tweets.: 16:48:45.982033
+Finding tweets with 'forearm': 16:48:45.982577
+Found 2599, downloaded 173 tweets.: 16:49:11.840542
+Finding tweets with 'forebear': 16:49:11.840998
+Found 150, downloaded 3 tweets.: 16:49:14.169793
+Finding tweets with 'forecast': 16:49:14.170314
+Found 2500, downloaded 90 tweets.: 16:49:38.734487
+Finding tweets with 'forehead': 16:49:38.734963
+Done!: 17:04:54.441092
+Finding tweets with 'forehead': 17:04:54.441444
+Found 599, downloaded 8 tweets.: 17:05:00.285805
+Finding tweets with 'forest': 17:05:00.286215
+Found 399, downloaded 13 tweets.: 17:05:05.024061
+Finding tweets with 'forestry': 17:05:05.024602
+Found 362, downloaded 5 tweets.: 17:05:09.373534
+Finding tweets with 'forever': 17:05:09.373951
+Found 398, downloaded 19 tweets.: 17:05:13.926363
+Finding tweets with 'forgery': 17:05:13.926794
+Found 6797, downloaded 61 tweets.: 17:06:21.794265
+Finding tweets with 'fork': 17:06:21.794681
+Found 498, downloaded 23 tweets.: 17:06:26.931895
+Finding tweets with 'form': 17:06:26.932369
+Found 8184, downloaded 248 tweets.: 17:07:46.584407
+Finding tweets with 'formal': 17:07:46.584860
+Found 491, downloaded 24 tweets.: 17:07:51.498408
+Finding tweets with 'format': 17:07:51.498881
+Found 200, downloaded 6 tweets.: 17:07:53.975596
+Finding tweets with 'former': 17:07:53.976248
+Done!: 17:23:09.715391
+Finding tweets with 'former': 17:23:09.715688
+Found 9999, downloaded 64 tweets.: 17:24:54.219285
+Finding tweets with 'fort': 17:24:54.219702
+Found 93, downloaded 6 tweets.: 17:24:55.414678
+Finding tweets with 'fortnight': 17:24:55.415108
+Found 5797, downloaded 235 tweets.: 17:25:54.971300
+Finding tweets with 'fortress': 17:25:54.971720
+Found 699, downloaded 11 tweets.: 17:26:02.729169
+Finding tweets with 'fortune': 17:26:02.729728
+Found 1197, downloaded 32 tweets.: 17:26:14.649183
+Finding tweets with 'forum': 17:26:14.649649
+Found 200, downloaded 1 tweets.: 17:26:17.435378
+Finding tweets with 'foundation': 17:26:17.435791
+Done!: 17:41:33.188390
+Finding tweets with 'foundation': 17:41:33.188633
+Found 9999, downloaded 223 tweets.: 17:43:12.459557
+Finding tweets with 'fountain': 17:43:12.459891
+Found 1786, downloaded 77 tweets.: 17:43:30.409965
+Finding tweets with 'fowl': 17:43:30.410373
+Found 1699, downloaded 104 tweets.: 17:43:47.353546
+Finding tweets with 'fox': 17:43:47.354212
+Found 1995, downloaded 33 tweets.: 17:44:08.764763
+Finding tweets with 'foxglove': 17:44:08.765191
+Found 761, downloaded 51 tweets.: 17:44:17.912206
+Finding tweets with 'fragrance': 17:44:17.912623
+Found 1700, downloaded 80 tweets.: 17:44:33.754830
+Finding tweets with 'frame': 17:44:33.755259
+Done!: 17:59:49.470606
+Finding tweets with 'frame': 17:59:49.470839
+Found 796, downloaded 34 tweets.: 17:59:57.261005
+Finding tweets with 'fratricide': 17:59:57.261519
+Found 1094, downloaded 12 tweets.: 18:00:07.741255
+Finding tweets with 'fraudster': 18:00:07.741700
+Found 9999, downloaded 70 tweets.: 18:01:42.298246
+Finding tweets with 'frazzle': 18:01:42.298651
+Found 377, downloaded 56 tweets.: 18:01:47.347432
+Finding tweets with 'freckle': 18:01:47.347875
+Found 5700, downloaded 494 tweets.: 18:02:56.032958
+Finding tweets with 'freedom': 18:02:56.033400
+Done!: 18:18:11.756132
+Finding tweets with 'freedom': 18:18:11.756546
+Found 9999, downloaded 163 tweets.: 18:19:59.883844
+Finding tweets with 'freeplay': 18:19:59.884398
+Found 1649, downloaded 197 tweets.: 18:20:16.061863
+Finding tweets with 'freeze': 18:20:16.062312
+Found 1794, downloaded 63 tweets.: 18:20:33.953130
+Finding tweets with 'freezer': 18:20:33.953571
+Found 66, downloaded 4 tweets.: 18:20:34.954925
+Finding tweets with 'freight': 18:20:34.955374
+Found 1592, downloaded 19 tweets.: 18:20:49.555360
+Finding tweets with 'freighter': 18:20:49.555771
+Found 799, downloaded 13 tweets.: 18:20:57.385181
+Finding tweets with 'freon': 18:20:57.385675
+Found 296, downloaded 16 tweets.: 18:21:00.509337
+Finding tweets with 'fresco': 18:21:00.509819
+Found 899, downloaded 83 tweets.: 18:21:09.889813
+Finding tweets with 'friction': 18:21:09.890262
+Found 800, downloaded 25 tweets.: 18:21:17.785740
+Finding tweets with 'fridge': 18:21:17.786134
+Done!: 18:36:33.514283
+Finding tweets with 'fridge': 18:36:33.514557
+Found 9999, downloaded 133 tweets.: 18:38:24.063300
+Finding tweets with 'friend': 18:38:24.063736
+Found 5905, downloaded 452 tweets.: 18:39:26.513756
+Finding tweets with 'friendship': 18:39:26.514246
+Found 2000, downloaded 85 tweets.: 18:39:46.925253
+Finding tweets with 'frigate': 18:39:46.925698
+Done!: 18:55:02.598472
+Finding tweets with 'frigate': 18:55:02.598729
+Found 396, downloaded 4 tweets.: 18:55:06.779125
+Finding tweets with 'fringe': 18:55:06.779643
+Found 1158, downloaded 61 tweets.: 18:55:18.572211
+Finding tweets with 'frock': 18:55:18.572704
+Found 1599, downloaded 77 tweets.: 18:55:34.344372
+Finding tweets with 'frog': 18:55:34.344859
+Found 7872, downloaded 342 tweets.: 18:56:51.688893
+Finding tweets with 'front': 18:56:51.689428
+Found 6095, downloaded 319 tweets.: 18:57:57.568485
+Finding tweets with 'frost': 18:57:57.568829
+Found 800, downloaded 37 tweets.: 18:58:06.294855
+Finding tweets with 'frown': 18:58:06.295382
+Done!: 19:13:21.966023
+Finding tweets with 'frown': 19:13:21.966383
+Found 8278, downloaded 446 tweets.: 19:14:54.510196
+Finding tweets with 'fruit': 19:14:54.510825
+Found 994, downloaded 58 tweets.: 19:15:05.041699
+Finding tweets with 'frustration': 19:15:05.042091
+Found 6867, downloaded 315 tweets.: 19:16:13.057613
+Finding tweets with 'fuel': 19:16:13.058074
+Found 1800, downloaded 29 tweets.: 19:16:30.709792
+Finding tweets with 'fulfillment': 19:16:30.710275
+Done!: 19:31:46.401241
+Finding tweets with 'fulfillment': 19:31:46.401483
+Found 3888, downloaded 70 tweets.: 19:32:23.563653
+Finding tweets with 'full': 19:32:23.564167
+Found 190, downloaded 5 tweets.: 19:32:26.015234
+Finding tweets with 'fun': 19:32:26.015667
+Found 7895, downloaded 547 tweets.: 19:33:46.763384
+Finding tweets with 'function': 19:33:46.763850
+Found 5069, downloaded 203 tweets.: 19:34:37.187905
+Finding tweets with 'fundraising': 19:34:37.188360
+Found 900, downloaded 21 tweets.: 19:34:46.820617
+Finding tweets with 'funeral': 19:34:46.821114
+Done!: 19:50:02.505697
+Finding tweets with 'funeral': 19:50:02.505957
+Found 1359, downloaded 33 tweets.: 19:50:16.047508
+Finding tweets with 'funny': 19:50:16.047955
+Found 3098, downloaded 384 tweets.: 19:50:47.087680
+Finding tweets with 'fur': 19:50:47.088215
+Found 873, downloaded 48 tweets.: 19:50:56.636143
+Finding tweets with 'furnace': 19:50:56.636677
+Found 1499, downloaded 52 tweets.: 19:51:12.075366
+Finding tweets with 'furniture': 19:51:12.075860
+Found 198, downloaded 4 tweets.: 19:51:14.059125
+Finding tweets with 'fusarium': 19:51:14.059579
+Found 257, downloaded 2 tweets.: 19:51:17.085479
+Finding tweets with 'futon': 19:51:17.085958
+Found 997, downloaded 87 tweets.: 19:51:27.486690
+Finding tweets with 'future': 19:51:27.487909
+Found 3195, downloaded 124 tweets.: 19:52:00.855719
+Finding tweets with 'gaffer': 19:52:00.856105
+Found 6400, downloaded 504 tweets.: 19:53:05.258517
+Finding tweets with 'gain': 19:53:05.258988
+Done!: 20:08:20.986181
+Finding tweets with 'gain': 20:08:20.986704
+Found 45, downloaded 2 tweets.: 20:08:22.211622
+Finding tweets with 'gaiters': 20:08:22.212248
+Found 81, downloaded 6 tweets.: 20:08:23.468698
+Finding tweets with 'gale': 20:08:23.469180
+Found 1795, downloaded 123 tweets.: 20:08:41.047575
+Finding tweets with 'gall-bladder': 20:08:41.048025
+Found 476, downloaded 43 tweets.: 20:08:46.313015
+Finding tweets with 'gallery': 20:08:46.313493
+Found 489, downloaded 16 tweets.: 20:08:51.503527
+Finding tweets with 'galley': 20:08:51.503976
+Found 844, downloaded 34 tweets.: 20:09:01.050669
+Finding tweets with 'gallon': 20:09:01.051154
+Found 1296, downloaded 67 tweets.: 20:09:14.216984
+Finding tweets with 'galn': 20:09:14.217445
+Found 57, downloaded 0 tweets.: 20:09:15.367681
+Finding tweets with 'galoshes': 20:09:15.368153
+Found 568, downloaded 16 tweets.: 20:09:20.949183
+Finding tweets with 'game': 20:09:20.949594
+Found 7957, downloaded 396 tweets.: 20:10:42.180998
+Finding tweets with 'gamebird': 20:10:42.181695
+Found 357, downloaded 3 tweets.: 20:10:45.558246
+Finding tweets with 'gamma-ray': 20:10:45.558769
+Found 224, downloaded 2 tweets.: 20:10:48.591232
+Finding tweets with 'gander': 20:10:48.591749
+Found 3400, downloaded 116 tweets.: 20:11:25.175372
+Finding tweets with 'gap': 20:11:25.175870
+Done!: 20:26:40.991796
+Finding tweets with 'gap': 20:26:40.992553
+Found 4981, downloaded 138 tweets.: 20:27:38.798963
+Finding tweets with 'garage': 20:27:38.800358
+Found 9999, downloaded 446 tweets.: 20:29:33.094124
+Finding tweets with 'garb': 20:29:33.094534
+Found 3000, downloaded 82 tweets.: 20:30:05.171711
+Finding tweets with 'garbage': 20:30:05.172226
+Done!: 20:45:20.842002
+Finding tweets with 'garbage': 20:45:20.843152
+Found 2892, downloaded 132 tweets.: 20:45:51.494123
+Finding tweets with 'garden': 20:45:51.495400
+Found 3790, downloaded 255 tweets.: 20:46:32.599388
+Finding tweets with 'garlic': 20:46:32.599870
+Found 398, downloaded 32 tweets.: 20:46:37.189604
+Finding tweets with 'garment': 20:46:37.190071
+Found 993, downloaded 14 tweets.: 20:46:46.999428
+Finding tweets with 'garter': 20:46:46.999911
+Found 697, downloaded 25 tweets.: 20:46:53.804631
+Finding tweets with 'gas': 20:46:53.805145
+Found 4299, downloaded 108 tweets.: 20:47:41.763600
+Finding tweets with 'gasoline': 20:47:41.764082
+Found 3097, downloaded 76 tweets.: 20:48:11.218974
+Finding tweets with 'gastropod': 20:48:11.219643
+Found 264, downloaded 5 tweets.: 20:48:14.733568
+Finding tweets with 'gate': 20:48:14.734107
+Found 1500, downloaded 44 tweets.: 20:48:29.408765
+Finding tweets with 'gateway': 20:48:29.409275
+Done!: 21:03:45.112999
+Finding tweets with 'gateway': 21:03:45.113664
+Found 9999, downloaded 245 tweets.: 21:05:23.906746
+Finding tweets with 'gather': 21:05:23.907877
+Found 8000, downloaded 182 tweets.: 21:06:43.816067
+Finding tweets with 'gauge': 21:06:43.816899
+Done!: 21:21:59.536529
+Finding tweets with 'gauge': 21:21:59.537639
+Found 1095, downloaded 18 tweets.: 21:22:11.336710
+Finding tweets with 'gauntlet': 21:22:11.337378
+Found 9999, downloaded 107 tweets.: 21:23:54.460511
+Finding tweets with 'gazebo': 21:23:54.461422
+Found 996, downloaded 61 tweets.: 21:24:04.795443
+Finding tweets with 'gazelle': 21:24:04.796141
+Found 396, downloaded 16 tweets.: 21:24:09.612693
+Finding tweets with 'gear': 21:24:09.613179
+Found 2994, downloaded 109 tweets.: 21:24:42.583316
+Finding tweets with 'gearshift': 21:24:42.584028
+Found 81, downloaded 1 tweets.: 21:24:44.185573
+Finding tweets with 'geese': 21:24:44.186078
+Found 2400, downloaded 100 tweets.: 21:25:08.922575
+Finding tweets with 'gelding': 21:25:08.923031
+Done!: 21:40:24.715780
+Finding tweets with 'gelding': 21:40:24.716874
+Found 1563, downloaded 56 tweets.: 21:40:40.755291
+Finding tweets with 'gem': 21:40:40.755987
+Found 698, downloaded 49 tweets.: 21:40:49.349536
+Finding tweets with 'gemsbok': 21:40:49.350116
+Found 81, downloaded 2 tweets.: 21:40:50.642655
+Finding tweets with 'gender': 21:40:50.643104
+Found 7499, downloaded 156 tweets.: 21:42:09.274602
+Finding tweets with 'gene': 21:42:09.275819
+Found 6679, downloaded 185 tweets.: 21:43:17.535440
+Finding tweets with 'general': 21:43:17.536350
+Found 398, downloaded 11 tweets.: 21:43:21.868691
+Finding tweets with 'genetics': 21:43:21.869177
+Found 1000, downloaded 33 tweets.: 21:43:32.730602
+Finding tweets with 'geography': 21:43:32.731319
+Done!: 21:58:48.416602
+Finding tweets with 'geography': 21:58:48.417286
+Found 140, downloaded 6 tweets.: 21:58:50.757841
+Finding tweets with 'geology': 21:58:50.758809
+Found 95, downloaded 7 tweets.: 21:58:52.041729
+Finding tweets with 'geometry': 21:58:52.042214
+Found 398, downloaded 20 tweets.: 21:58:56.121060
+Finding tweets with 'george': 21:58:56.121539
+Found 8491, downloaded 283 tweets.: 22:00:35.993776
+Finding tweets with 'geranium': 22:00:35.994448
+Found 2787, downloaded 178 tweets.: 22:01:07.023631
+Finding tweets with 'gerbil': 22:01:07.024289
+Found 1291, downloaded 78 tweets.: 22:01:21.342441
+Finding tweets with 'geyser': 22:01:21.342926
+Found 2358, downloaded 77 tweets.: 22:01:47.179048
+Finding tweets with 'gherkin': 22:01:47.179556
+Found 1068, downloaded 81 tweets.: 22:01:58.811343
+Finding tweets with 'ghost': 22:01:58.811771
+Found 87, downloaded 4 tweets.: 22:01:59.950695
+Finding tweets with 'giant': 22:01:59.951246
+Found 1100, downloaded 19 tweets.: 22:02:12.114588
+Finding tweets with 'gift': 22:02:12.115060
+Done!: 22:17:27.827989
+Finding tweets with 'gift': 22:17:27.828734
+Found 1095, downloaded 39 tweets.: 22:17:40.555748
+Finding tweets with 'gigantism': 22:17:40.556555
+Found 160, downloaded 5 tweets.: 22:17:43.412512
+Finding tweets with 'ginseng': 22:17:43.413049
+Found 197, downloaded 12 tweets.: 22:17:45.616403
+Finding tweets with 'giraffe': 22:17:45.616957
+Found 3292, downloaded 188 tweets.: 22:18:20.585983
+Finding tweets with 'girdle': 22:18:20.586493
+Found 86, downloaded 2 tweets.: 22:18:21.833425
+Finding tweets with 'girl': 22:18:21.833962
+Found 2881, downloaded 280 tweets.: 22:18:54.060217
+Finding tweets with 'girlfriend': 22:18:54.060785
+Found 593, downloaded 48 tweets.: 22:19:01.067216
+Finding tweets with 'git': 22:19:01.067790
+Found 997, downloaded 61 tweets.: 22:19:12.209957
+Finding tweets with 'give': 22:19:12.210461
+Found 8600, downloaded 414 tweets.: 22:20:46.112177
+Finding tweets with 'glad': 22:20:46.112653
+Done!: 22:36:01.866307
+Finding tweets with 'glad': 22:36:01.866591
+Found 9999, downloaded 1223 tweets.: 22:37:54.707873
+Finding tweets with 'gladiolus': 22:37:54.708318
+Found 8000, downloaded 124 tweets.: 22:39:16.270887
+Finding tweets with 'gland': 22:39:16.271454
+Done!: 22:54:31.963720
+Finding tweets with 'gland': 22:54:31.964398
+Found 199, downloaded 13 tweets.: 22:54:34.422286
+Finding tweets with 'glass': 22:54:34.422949
+Found 289, downloaded 13 tweets.: 22:54:37.842488
+Finding tweets with 'glasses': 22:54:37.842967
+Found 2194, downloaded 227 tweets.: 22:55:01.342845
+Finding tweets with 'glen': 22:55:01.343349
+Found 7499, downloaded 409 tweets.: 22:56:19.574203
+Finding tweets with 'glider': 22:56:19.574719
+Found 396, downloaded 11 tweets.: 22:56:23.774004
+Finding tweets with 'gliding': 22:56:23.774486
+Found 4106, downloaded 175 tweets.: 22:57:08.674898
+Finding tweets with 'glockenspiel': 22:57:08.675372
+Found 774, downloaded 5 tweets.: 22:57:16.590916
+Finding tweets with 'glove': 22:57:16.591550
+Found 2400, downloaded 61 tweets.: 22:57:41.231324
+Finding tweets with 'gloves': 22:57:41.231893
+starting to process 179649 lines...: 23:01:44.094767
+Cleaning...: 23:01:44.095356
+Removing duplicates...: 23:02:36.357141
+Removed 9970 items: 23:02:38.044977
+Finding tweets with 'gloves': 08:17:32.328837
+Found 396, downloaded 16 tweets.: 08:17:36.967643
+Finding tweets with 'glue': 08:17:36.968231
+Found 82, downloaded 10 tweets.: 08:17:38.183466
+Finding tweets with 'glut': 08:17:38.183909
+Found 195, downloaded 3 tweets.: 08:17:40.439893
+Finding tweets with 'go': 08:17:40.440434
+Found 5880, downloaded 453 tweets.: 08:18:42.488711
+Finding tweets with 'goal': 08:18:42.489153
+Found 2284, downloaded 76 tweets.: 08:19:07.694777
+Finding tweets with 'goat': 08:19:07.695194
+Found 9100, downloaded 696 tweets.: 08:20:47.472209
+Finding tweets with 'gobbler': 08:20:47.472739
+Done!: 08:36:03.247702
+Finding tweets with 'gobbler': 08:36:03.248397
+Found 1596, downloaded 76 tweets.: 08:36:18.885759
+Finding tweets with 'god': 08:36:18.886648
+Found 9999, downloaded 606 tweets.: 08:38:02.148440
+Finding tweets with 'godmother': 08:38:02.149149
+Found 3599, downloaded 444 tweets.: 08:38:38.860873
+Finding tweets with 'goggles': 08:38:38.862101
+Found 1896, downloaded 97 tweets.: 08:38:56.724076
+Finding tweets with 'go-kart': 08:38:56.724886
+Found 900, downloaded 33 tweets.: 08:39:06.212069
+Finding tweets with 'gold': 08:39:06.212763
+Done!: 08:54:21.997012
+Finding tweets with 'gold': 08:54:21.998244
+Found 299, downloaded 11 tweets.: 08:54:25.508911
+Finding tweets with 'goldfish': 08:54:25.509446
+Found 174, downloaded 5 tweets.: 08:54:27.803224
+Finding tweets with 'golf': 08:54:27.803636
+Found 598, downloaded 13 tweets.: 08:54:34.344406
+Finding tweets with 'gondola': 08:54:34.345033
+Found 2386, downloaded 128 tweets.: 08:54:56.632858
+Finding tweets with 'gong': 08:54:56.633666
+Found 8197, downloaded 331 tweets.: 08:56:19.983631
+Finding tweets with 'good': 08:56:19.986550

@@ -3,7 +3,7 @@
 # encoding=utf8
 import os
 
-emojifilename = os.path.abspath("/Users/oskar/Egna Dokument/Programmering/SMS/emojis.txt")
+emojifilename = os.path.abspath("/Users/oskar/Egna Dokument/Programmering/Emon/emojis.txt")
 
 def loadEmojis():
 	emojiourcefile = open(emojifilename)

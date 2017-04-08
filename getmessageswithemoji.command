@@ -1,3 +1,3 @@
-cd /Users/oskar/Egna\ Dokument/Programmering/SMS
+cd /Users/oskar/Egna\ Dokument/Programmering/Emon
 
-python /Users/oskar/Egna\ Dokument/Programmering/SMS/getmessageswithemoji.py /Users/oskar/Egna\ Dokument/Programmering/SMS/sms.txt /Users/oskar/Egna\ Dokument/Programmering/SMS/emojis.txt
+python /Users/oskar/Egna\ Dokument/Programmering/Emon/getmessageswithemoji.py /Users/oskar/Egna\ Dokument/Programmering/Emon/sms.txt /Users/oskar/Egna\ Dokument/Programmering/Emon/emojis.txt

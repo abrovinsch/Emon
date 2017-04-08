@@ -16,7 +16,7 @@ def getMostCommonEmojiforword(word,printall,lang):
 
 	freqtable = {}
 
-	freqtablefile = open(os.path.abspath("/Users/oskar/Egna Dokument/Programmering/SMS/%s/emojifrequencies.csv" % lang))
+	freqtablefile = open(os.path.abspath("/Users/oskar/Egna Dokument/Programmering/Emon/%s/emojifrequencies.csv" % lang))
 	for row in freqtablefile.read().split("\n"):
 		parts = row.split(";")
 		if(len(parts)<2):continue
